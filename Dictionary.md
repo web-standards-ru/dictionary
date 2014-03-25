@@ -49,7 +49,7 @@
 		- font-style:italic — **курсив.**
 		- font-style:oblique — **наклонный.**
 	- font-size — **размер шрифта, кегль.**
-	- font-family — **семейство шрифта,** **гарнитура.**
+	- font-family — **семейство шрифта, гарнитура.**
 		- font-family:serif — **с засечками.**
 		- font-family:sans-serif — **без засечек.**
 		- font-family:monospace — **моноширинный.**
