@@ -133,4 +133,4 @@
 ## W
 
 - web standards — **веб-стандарты.**
-- word-spacing — **TODO.**
+- word-spacing — **межсловный пробел**
