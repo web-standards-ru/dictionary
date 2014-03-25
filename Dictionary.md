@@ -120,10 +120,11 @@
 ## T
 
 - text-shadow — **тень (текста),** напр. _тень текста красная (text-shadow is red)._
-- text-align — **выравнивание**
-	- text-align:left — **выравнивание влево**
-	- text-align:right — **выравнивание вправо**
-	- text-align:justify — **выравнивание по ширине**
+- text-align — **выключка текста**
+	- text-align:left — **выключка влево**
+	- text-align:right — **выключка вправо**
+	- text-align:justify — **полная выключка**
+	- text-align:center — **выключка по центру**
 - transform — **трансформация,** напр. _transform: scale(2) — трасформация масштабированием в 2 раза._
 - transition — **переход,** напр. _transition: all 2s linear — линейный переход длительностью 2 секунды._
 
