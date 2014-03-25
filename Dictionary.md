@@ -91,7 +91,7 @@
 
 ## I
 
-- implement — **внедрять,** напр. _разработчики Firefox внедрили поддержку всего (Firefox developers implemented support of everything)._
+- implement — **внедрять, реализовывать** напр. _разработчики Firefox внедрили поддержку всего (Firefox developers implemented support of everything)._
 - inline — **строчный**
 	- inline block — **строчный блок**
 	- inline emement — **строчный элемент**
