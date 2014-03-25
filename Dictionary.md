@@ -59,6 +59,7 @@
 	- linear gradient — **линейный градиент.**
 	- radial gradient — **радиальный градиент.**
 	- conical gradient — **конический градиент.**
+- grid - **сетка** напр. _12-колоночная сетка_ (12 column grid)
 
 # H
 
