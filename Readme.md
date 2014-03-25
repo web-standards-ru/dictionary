@@ -7,4 +7,4 @@
 Есть идеи по отсутствующим терминам, не согласны с переводом и готовы аргументировать? [Ставьте задачи](//github.com/web-standards-ru/dictionary/issues) и отправляйте пулриквесты.
 
 ---
-Распространяется по лицензии [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редактор [Вадим Макеев](http://pepelsbey.net). Распространяется по лицензии [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
