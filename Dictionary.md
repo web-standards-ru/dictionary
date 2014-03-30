@@ -75,7 +75,8 @@
 		- font-weight:bold — **полужирный,** не «жирный» согласно типографской традиции.
 		- font-weight:bolder — **жирнее.**
 		- font-weight:lighter — **светлее.**
-	- font-style — **стиль шрифта**
+	- font-style — **наклон шрифта**
+		- font-style:normal — **прямой.**
 		- font-style:italic — **курсив.**
 		- font-style:oblique — **наклонный.**
 	- font-size — **размер шрифта, кегль.**
