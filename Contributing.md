@@ -11,5 +11,9 @@
 
 У словаря есть редактор, поэтому будьте готовы к тому, что за качеством текста будут следить и не все идеи и подходы найдут своё место. В поисках идеального термина большую роль играет не только опыт редактирования, но и вкус.
 
+## Полезные ссылки
+
+- [Словарь Шрифтовых Терминов — Справочник ParaType](http://www.paratype.ru/help/term/)
+
 ---
-[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редактор [Вадим Макеев](http://pepelsbey.net). Распространяется по лицензии [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редактор [Вадим Макеев](http://pepelsbey.net). Распространяется по лицензии [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
