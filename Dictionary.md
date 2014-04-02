@@ -27,6 +27,10 @@
 
 ## B
 
+### browser
+
+**бра́узер**
+
 ### back-end
 
 **бэке́нд**
@@ -201,6 +205,10 @@
 ### fallback
 
 **TODO**
+
+### favicon
+
+**фавиконка,** значок сайта, обычно 16×16 пикселей в формате ICO.
 
 ### fieldset
 
@@ -422,6 +430,10 @@
 
 ## P
 
+### package manager
+
+**TODO**
+
 ### padding
 
 **внутренний отступ,** напр. _верхний внутренний отступ 10 пикселей — padding-top:10px._
@@ -490,6 +502,10 @@
 ### reset
 
 **сброс,** обычно сброс стилей по умолчанию в CSS, напр. _файл сброса стилей — style reset file._
+
+### responsive design
+
+**TODO**
 
 ### Responsive Images Community Group (RICG)
 
@@ -631,6 +647,14 @@
 **утили́та,** программа с узким назначением.
 
 ## V
+
+### valid
+
+**TODO**
+
+### validator
+
+**TODO**
 
 ### vendor prefix
 
