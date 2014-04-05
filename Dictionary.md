@@ -238,8 +238,8 @@
 
 - font-weight — **насыщенность**
 
-	- font-weight:normal — **нормальная**
-	- font-weight:bold — **полужирная,** (не «жирный»)
+	- font-weight:normal — **нормальный**
+	- font-weight:bold — **полужирный,** (не «жирный»)
 	- font-weight:bolder — **жирнее**
 	- font-weight:lighter — **светлее**
 
@@ -255,7 +255,7 @@
 
 	- font-family:serif — **с засечками**
 	- font-family:sans-serif — **без засечек**
-	- font-family:monospace — **моноширинный**
+	- font-family:monospace — **моноширинная**
 
 ### footer
 
