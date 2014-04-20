@@ -251,7 +251,7 @@
 - font-weight — **насыщенность**
 
 	- font-weight:normal — **нормальная**
-	- font-weight:bold — **полужирная,** (не «жирный»)
+	- font-weight:bold — **полужирная,** (не _жирная_)
 	- font-weight:bolder — **жирнее**
 	- font-weight:lighter — **светлее**
 
