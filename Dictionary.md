@@ -85,7 +85,7 @@
 
 ### candidate recommendation (CR)
 
-**TODO**
+**кандидат в рекомендации,** статус спецификации [W3C](#world-wide-web-consortium-w3c), один из возможных вариантов для [предложенной рекомендации](proposed-recommendation-pr).
 
 ### cell
 
@@ -371,7 +371,7 @@
 
 ### last call (LC)
 
-**TODO**
+**последний черновик,** статус спецификации [W3C](#world-wide-web-consortium-w3c) для последних правок перед статусом [кандидата в рекомендации](candidate-recommendation-cr).
 
 ### layout
 
@@ -527,7 +527,7 @@
 
 ### proposed recommendation (PR)
 
-**TODO**
+**предложенная рекомендация,** статус спецификации [W3C](#world-wide-web-consortium-w3c), вероятный кандидат в [рекомендацию](#recommendation-rec).
 
 ## R
 
@@ -537,7 +537,7 @@
 
 ### recommendation (REC)
 
-**TODO**
+**рекомендация,** финальный статус спецификации [W3C](#world-wide-web-consortium-w3c), рекомендованой для внедрения в браузеры и использования разработчиками.
 
 ### rem
 
@@ -740,7 +740,7 @@
 
 ### working draft (WD)
 
-**TODO**
+**рабочий черновик,** ранний статус спецификации [W3C](#world-wide-web-consortium-w3c).
 
 ### World Wide Web Consortium (W3C)
 
