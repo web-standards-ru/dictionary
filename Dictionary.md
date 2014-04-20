@@ -83,7 +83,7 @@
 
 **обратный вызов,** исполнение кода по завершению работы функции, напр. _передай значение в обратном вызове — pass value in a callback._
 
-# candidate recommendation (CR)
+### candidate recommendation (CR)
 
 **TODO**
 
@@ -523,7 +523,7 @@
 
 **радиокно́пка,** элемент формы `<input type="radio">` для выбора одного варианта из нескольких, напр. _радиокнопка выбрана — radio button is checked._
 
-# recommendation (REC)
+### recommendation (REC)
 
 **TODO**
 
@@ -717,7 +717,7 @@
 
 **сайт,** объединённые под одним адресом страницы, перевод «веб-сайт» избыточен.
 
-# working draft (WD)
+### working draft (WD)
 
 **TODO**
 
