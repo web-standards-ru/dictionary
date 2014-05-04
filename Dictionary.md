@@ -85,7 +85,7 @@
 
 ### candidate recommendation (CR)
 
-**кандидат в рекомендации,** статус спецификации [W3C](#world-wide-web-consortium-w3c), один из возможных вариантов для [предложенной рекомендации](proposed-recommendation-pr).
+**кандидат в рекомендации,** статус спецификации [W3C](#world-wide-web-consortium-w3c), один из возможных вариантов для [предложенной рекомендации](#proposed-recommendation-pr).
 
 ### cell
 
