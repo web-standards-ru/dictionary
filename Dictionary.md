@@ -577,7 +577,7 @@
 
 ### rounder corners
 
-**скруглённые углы,** напр. _скруглённые углы вышли из моды — rounded corners are out of fasion,_ см. также [скругление рамки](#border-radius).
+**скруглённые углы,** напр. _скруглённые углы вышли из моды — rounded corners are out of fashion,_ см. также [скругление рамки](#border-radius).
 
 ### row
 
