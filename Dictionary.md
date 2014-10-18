@@ -521,7 +521,7 @@
 
 ### ppi (pixel per inch)
 
-**писелей на дюйм,** единица измерения плотности пикселей (см. [pixel density](#pixel-density)).
+**пикселей на дюйм,** единица измерения плотности пикселей (см. [pixel density](#pixel-density)).
 
 ### plugin
 
