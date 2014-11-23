@@ -194,6 +194,10 @@
 
 см. [pixel ratio](#pixel-ratio)
 
+### dirty checking
+
+**проверка на грязные свойства объекта**
+
 ### disable
 
 **деактивировать**
