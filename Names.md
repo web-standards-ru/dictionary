@@ -14,6 +14,12 @@
 
 **Илья Григорик —** [www.igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
 
+## J
+
+### Roger Johansson
+
+**Роджер Йоханссон —**  [www.456bereastreet.com](http://www.456bereastreet.com), [@rogerjohansson](https://twitter.com/rogerjohansson)
+
 ## O
 
 ### Addy Osmani
