@@ -4,36 +4,36 @@
 
 ## C
 
-### [Coyier, Chris](http://css-tricks.com), [@chriscoyier](https://twitter.com/chriscoyier)
+### Coyier, Chris
 
-**Крис Койер**
+**Крис Койер**, [css-tricks.com](http://css-tricks.com), [@chriscoyier](https://twitter.com/chriscoyier)
 
 ## G
 
-### [Grigorik, Ilya](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
+### Grigorik, Ilya
 
-**Илья Григорик**
+**Илья Григорик**, [www.igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
 
 ## M
 
-### [Makeev, Vadim](http://pepelsbey.net), [@pepelsbey](https://twitter.com/pepelsbey)
+### Makeev, Vadim
 
-**Вадим Макеев**
+**Вадим Макеев**, [pepelsbey.net](http://pepelsbey.net), [@pepelsbey](https://twitter.com/pepelsbey)
 
 ## O
 
-### [Osmani, Addy](http://addyosmani.com), [@addyosmani](https://twitter.com/addyosmani)
+### Osmani, Addy
 
-**Эдди Османи**
+**Эдди Османи**, [addyosmani.com](http://addyosmani.com), [@addyosmani](https://twitter.com/addyosmani)
 
 ## R
 
-### [Roberts, Harry](http://csswizardry.com), [@csswizardry](https://twitter.com/csswizardry)
+### Roberts, Harry
 
-**Гэрри Робертс**
+**Гэрри Робертс**, [csswizardry.com](http://csswizardry.com), [@csswizardry](https://twitter.com/csswizardry)
 
 ## V
 
-### [Verou, Lea](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
+### Verou, Lea
 
-**Лиа Веру**
+**Лиа Веру**, [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
