@@ -43,3 +43,9 @@
 ### Lea Verou
 
 **Лиа Веру —** [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
+
+## Z
+
+### Jeffrey Zeldman
+
+**Джеффри Зельдман —** [www.zeldman.com](http://www.zeldman.com/), [@zeldman](https://twitter.com/zeldman)
