@@ -1,6 +1,6 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: A B [C](#c) D E F [G](#g) H I [J](#j) K L M N [O](#o) P Q [R](#r) [S](#s) T U [V](#v) W X Y [Z](#z)
+Оглавление: A B [C](#c) D E F [G](#g) H I [J](#j) K L [M](#m) N [O](#o) P Q [R](#r) [S](#s) T U [V](#v) W X Y [Z](#z)
 
 ## C
 
@@ -19,6 +19,12 @@
 ### Roger Johansson
 
 **Роджер Йоханссон —**  [www.456bereastreet.com](http://www.456bereastreet.com), [@rogerjohansson](https://twitter.com/rogerjohansson)
+
+## M
+
+### Eric Meyer
+
+**Эрик Мейер —** [meyerweb.com](http://meyerweb.com), [@meyerweb](https://twitter.com/meyerweb)
 
 ## O
 
