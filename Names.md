@@ -14,12 +14,6 @@
 
 **Илья Григорик**, [www.igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
 
-## M
-
-### Makeev, Vadim
-
-**Вадим Макеев**, [pepelsbey.net](http://pepelsbey.net), [@pepelsbey](https://twitter.com/pepelsbey)
-
 ## O
 
 ### Osmani, Addy
