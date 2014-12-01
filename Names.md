@@ -4,30 +4,30 @@
 
 ## C
 
-### Coyier, Chris
+### Chris Coyier
 
 **Крис Койер**, [css-tricks.com](http://css-tricks.com), [@chriscoyier](https://twitter.com/chriscoyier)
 
 ## G
 
-### Grigorik, Ilya
+### Ilya Grigorik
 
 **Илья Григорик**, [www.igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
 
 ## O
 
-### Osmani, Addy
+### Addy Osmani
 
 **Эдди Османи**, [addyosmani.com](http://addyosmani.com), [@addyosmani](https://twitter.com/addyosmani)
 
 ## R
 
-### Roberts, Harry
+### Harry Roberts
 
 **Гэрри Робертс**, [csswizardry.com](http://csswizardry.com), [@csswizardry](https://twitter.com/csswizardry)
 
 ## V
 
-### Verou, Lea
+### Lea Verou
 
 **Лиа Веру**, [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
