@@ -24,7 +24,7 @@
 
 ### Harry Roberts
 
-**Гэрри Робертс**, [csswizardry.com](http://csswizardry.com), [@csswizardry](https://twitter.com/csswizardry)
+**Гарри Робертс**, [csswizardry.com](http://csswizardry.com), [@csswizardry](https://twitter.com/csswizardry)
 
 ## V
 
