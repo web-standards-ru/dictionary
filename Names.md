@@ -26,6 +26,12 @@
 
 **Гарри Робертс —** [csswizardry.com](http://csswizardry.com), [@csswizardry](https://twitter.com/csswizardry)
 
+## S
+
+### Sara Soueidan
+
+**Сара Суайдан —** [sarasoueidan.com](http://sarasoueidan.com), [@SaraSoueidan](https://twitter.com/SaraSoueidan)
+
 ## V
 
 ### Lea Verou
