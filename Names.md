@@ -20,6 +20,11 @@
 
 **Роджер Йоханссон —**  [www.456bereastreet.com](http://www.456bereastreet.com), [@rogerjohansson](https://twitter.com/rogerjohansson)
 
+### Henrik Joreteg
+
+**Хенрик Йортег —** [joreteg.com](http://joreteg.com/),
+[@henrikjoreteg](https://twitter.com/henrikjoreteg)
+
 ## M
 
 ### Eric Meyer
