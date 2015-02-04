@@ -1,6 +1,12 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: A B [C](#c) D E F [G](#g) H I [J](#j) K L [M](#m) N [O](#o) P Q [R](#r) [S](#s) T U [V](#v) W X Y [Z](#z)
+Оглавление: [A](#a) B [C](#c) D E F [G](#g) H I [J](#j) K L [M](#m) N [O](#o) P Q [R](#r) [S](#s) T U [V](#v) W X Y [Z](#z)
+
+## A
+
+### Rachel Andrew
+
+**Рэйчел Эндрю —** [webdesignerdepot.com](http://www.webdesignerdepot.com), [@rachelandrew](https://twitter.com/rachelandrew)
 
 ## C
 
