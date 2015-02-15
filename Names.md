@@ -1,6 +1,6 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: [A](#a) B [C](#c) D E F [G](#g) H I [J](#j) K L [M](#m) N [O](#o) P Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
+Оглавление: [A](#a) B [C](#c) D E F [G](#g) H I [J](#j) K [L](#l) [M](#m) N [O](#o) P Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
 
 ## A
 
@@ -30,6 +30,12 @@
 
 **Хенрик Йортег —** [joreteg.com](http://joreteg.com/),
 [@henrikjoreteg](https://twitter.com/henrikjoreteg)
+
+## L
+
+### Bruce Lawson
+
+**Брюс Лоусон —** [brucelawson.co.uk](http://www.brucelawson.co.uk), [@brucel](https://twitter.com/brucel)
 
 ## M
 
