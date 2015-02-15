@@ -1,6 +1,6 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: [A](#a) B [C](#c) D E F [G](#g) H I [J](#j) K L [M](#m) N [O](#o) P Q [R](#r) [S](#s) T U [V](#v) W X Y [Z](#z)
+Оглавление: [A](#a) B [C](#c) D E F [G](#g) H I [J](#j) K L [M](#m) N [O](#o) P Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
 
 ## A
 
@@ -60,6 +60,12 @@
 ### Lea Verou
 
 **Лиа Веру —** [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
+
+## W
+
+### Luke Wroblewski
+
+**Люк Вроблевски —** [lukew.com](http://www.lukew.com), [@lukew](https://twitter.com/lukew)
 
 ## Z
 
