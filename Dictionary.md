@@ -706,12 +706,18 @@
 
 **селектор,** необходимая структурная часть [блока стилей](#rule-set). Отвечает за привязку деклараций к элементам DOM.
 
-- simple selector — **обычный селектор,** включает в себя все типы селекторов.
-- type selector — **селектор по типу,** обращается к тегу, напр. `ul li`, `input` и др.
-- universal selector — **универсальный селектор,** «звездочка»: `*`.
-- ID selector — **селектор по идентификатору,** напр. `#content`.
-- class selector — **селектор по классу,** напр. `.item`.
-- attribute selector — **селектор по атрибуту,** напр. `[type=submit]`.
+- simple selector — **простой селектор,** один из следующих (либо [псевдокласс](#pseudo-class)):
+    - type selector — **селектор по типу,** обращается к тегу, напр. `ul`, `input` и др.
+    - universal selector — **универсальный селектор,** «звездочка»: `*`.
+    - ID selector — **селектор по идентификатору,** напр. `#content`.
+    - class selector — **селектор по классу,** напр. `.item`.
+    - attribute selector — **селектор по атрибуту,** напр. `[type=submit]`.
+- compound selector, sequence of simple selectors — **составной селектор**, цепочка простых селекторов, не разделенных управляющими символами (комбинаторами), напр. `input[type=submit]:focus`.
+- complex selector — **сложный селектор**, несколько простых и/или составных селекторов, разделенных комбинаторами:
+    - descendant selector — **селектор потомка**, напр. `ul li`.
+    - child selector — **дочерний селектор**, напр. `#buttons > *`.
+    - adjacent sibling selector — **соседский селектор**, напр. `.item + .item`.
+    - general sibling selector — **обобщенный соседский селектор**, напр. `.item ~ .item`.
 
 ### server-side
 
