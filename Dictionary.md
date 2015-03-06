@@ -50,6 +50,15 @@
 
 **фон,** напр. _background image — фоновое изображение._
 
+ - background-color — **цвет фона**
+ - background-position — **позиция фона**
+ - background-size — **размер фона**
+ - background-repeat — **повторение фона**
+ - background-origin — **границы фона**
+ - background-clip — **обрезка фона**
+ - background-attachment — **закрепление фона**
+ - background-image — **фоновое изображение**
+
 ### baseline
 
 **базовая линия,** воображаемая линия в основании букв в строке.
