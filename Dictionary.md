@@ -80,6 +80,18 @@
 
 **рамка,** внешняя видимая часть блока, напр. _border-left — рамка слева._
 
+- border-collapse — слияние рамки
+- border-color — цвет рамки
+- border-image — графическая рамка
+- border-image-outset — выступ графической рамки
+- border-image-repeat — повторение графической рамки
+- border-image-slice — разбивка графической рамки
+- border-image-source — адрес изображения для графической рамки
+- border-image-width — толщина графической рамки
+- border-radius — скругление рамки
+- border-style — стиль рамки
+- border-width — ширина рамки
+
 ### border-radius
 
 **скругление рамки,** напр., _border-radius:3px — скругление рамки на 3 пикселя, border-top-left-radius — скругление верхнего левого угла,_ см. также [скруглённые углы](#rounder-corners).
