@@ -75,6 +75,10 @@
 
 ## M
 
+### Charles McCathieNevile
+
+**Чарльз МакКетиНевил —** [@chaals](https://twitter.com/chaals)
+
 ### Eric Meyer
 
 **Эрик Мейер —** [meyerweb.com](http://meyerweb.com), [@meyerweb](https://twitter.com/meyerweb)
