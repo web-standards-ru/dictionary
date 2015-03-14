@@ -1,6 +1,6 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: [A](#a) B [C](#c) [D](#d) E F [G](#g) H [I](#i) [J](#j) K [L](#l) [M](#m) N [O](#o) P Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
+Оглавление: [A](#a) B [C](#c) [D](#d) E F [G](#g) H [I](#i) [J](#j) K [L](#l) [M](#m) N [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
 
 ## A
 
@@ -64,6 +64,12 @@
 ### Addy Osmani
 
 **Эдди Османи —** [addyosmani.com](http://addyosmani.com), [@addyosmani](https://twitter.com/addyosmani)
+
+## P
+
+### Paul Rouget
+
+**Поль Руже —** [paulrouget.com](http://paulrouget.com/)
 
 ## R
 
