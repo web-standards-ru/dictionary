@@ -69,6 +69,10 @@
 
 **Брюс Лоусон —** [brucelawson.co.uk](http://www.brucelawson.co.uk), [@brucel](https://twitter.com/brucel)
 
+### Zach Leatherman
+
+**Зак Лезерман —** [www.zachleat.com](http://www.zachleat.com/web/), [@zachleat](http://twitter.com/zachleat)
+
 ## M
 
 ### Eric Meyer
