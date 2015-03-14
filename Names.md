@@ -1,6 +1,6 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: [A](#a) B [C](#c) D E F [G](#g) H [I](#i) [J](#j) K [L](#l) [M](#m) N [O](#o) P Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
+Оглавление: [A](#a) B [C](#c) [D](#d) E F [G](#g) H [I](#i) [J](#j) K [L](#l) [M](#m) N [O](#o) P Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
 
 ## A
 
@@ -13,6 +13,12 @@
 ### Chris Coyier
 
 **Крис Койер —** [css-tricks.com](http://css-tricks.com), [@chriscoyier](https://twitter.com/chriscoyier)
+
+## D
+
+### Ian Devlin
+
+**Иэн Дэвлин —** [www.iandevlin.com](http://www.iandevlin.com/), [@iandevlin](https://twitter.com/iandevlin)
 
 ## G
 
