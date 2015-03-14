@@ -61,6 +61,10 @@
 
 ## S
 
+### Dave Shea
+
+**Дейв Шей —** [www.mezzoblue.com](http://www.mezzoblue.com/), [@mezzoblue](https://twitter.com/mezzoblue)
+
 ### Sara Soueidan
 
 **Сара Суайдан —** [sarasoueidan.com](http://sarasoueidan.com), [@SaraSoueidan](https://twitter.com/SaraSoueidan)
