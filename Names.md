@@ -1,6 +1,6 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: [A](#a) B [C](#c) D E F [G](#g) H I [J](#j) K [L](#l) [M](#m) N [O](#o) P Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
+Оглавление: [A](#a) B [C](#c) D E F [G](#g) [H](#h) I [J](#j) K [L](#l) [M](#m) N [O](#o) P Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
 
 ## A
 
@@ -19,6 +19,12 @@
 ### Ilya Grigorik
 
 **Илья Григорик —** [www.igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
+
+## H
+
+### Hugo Giraudel
+
+**Хьюго Жиродель —** [hugogiraudel.com](http://hugogiraudel.com/), [@HugoGiraudel](https://twitter.com/HugoGiraudel)
 
 ## J
 
