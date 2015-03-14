@@ -1,6 +1,6 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: [A](#a) B [C](#c) [D](#d) E F [G](#g) H [I](#i) [J](#j) K [L](#l) [M](#m) N [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
+Оглавление: [A](#a) B [C](#c) [D](#d) E F [G](#g) H [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) N [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
 
 ## A
 
@@ -46,6 +46,12 @@
 
 **Хенрик Йортег —** [joreteg.com](http://joreteg.com/),
 [@henrikjoreteg](https://twitter.com/henrikjoreteg)
+
+## K
+
+### Anne van Kesteren
+
+**Анне ван Кестерен —** [annevankesteren.nl](https://annevankesteren.nl/), [@annevk](https://twitter.com/annevk)
 
 ## L
 
