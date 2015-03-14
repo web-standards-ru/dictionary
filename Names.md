@@ -1,6 +1,6 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: [A](#a) B [C](#c) [D](#d) E F [G](#g) H [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) N [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
+Оглавление: [A](#a) B [C](#c) [D](#d) E F [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) N [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
 
 ## A
 
@@ -29,6 +29,12 @@
 ### Ilya Grigorik
 
 **Илья Григорик —** [www.igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
+
+## H
+
+### TJ Holowaychuk
+
+**Ти Джей Головайчук —** [tjholowaychuk.com](http://www.tjholowaychuk.com/), [@tjholowaychuk](https://twitter.com/tjholowaychuk)
 
 ## I
 
