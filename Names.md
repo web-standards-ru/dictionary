@@ -32,6 +32,10 @@
 
 ## H
 
+### Ariya Hidayat
+
+**Ари́я Хидаят —** [ariya.ofilabs.com](http://ariya.ofilabs.com/), [@ariyahidayat](http://twitter.com/ariyahidayat)
+
 ### TJ Holowaychuk
 
 **Ти Джей Головайчук —** [tjholowaychuk.com](http://www.tjholowaychuk.com/), [@tjholowaychuk](https://twitter.com/tjholowaychuk)
