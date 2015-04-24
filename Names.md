@@ -87,7 +87,7 @@
 
 ### Addy Osmani
 
-**Эдди Османи —** [addyosmani.com](http://addyosmani.com), [@addyosmani](https://twitter.com/addyosmani)
+**Эдди Осма́ни —** [addyosmani.com](http://addyosmani.com), [@addyosmani](https://twitter.com/addyosmani)
 
 ## P
 
@@ -109,7 +109,7 @@
 
 ### Sara Soueidan
 
-**Сара Суайдан —** [sarasoueidan.com](http://sarasoueidan.com), [@SaraSoueidan](https://twitter.com/SaraSoueidan)
+**Сара Суайда́н —** [sarasoueidan.com](http://sarasoueidan.com), [@SaraSoueidan](https://twitter.com/SaraSoueidan)
 
 ## V
 
