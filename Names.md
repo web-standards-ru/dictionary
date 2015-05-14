@@ -63,6 +63,10 @@
 
 **Анне ван Кестерен —** [annevankesteren.nl](https://annevankesteren.nl/), [@annevk](https://twitter.com/annevk)
 
+### Thierry Koblentz
+
+**Тьерри Кобленц —** [www.cssmojo.com](http://www.cssmojo.com/), [@thierrykoblentz](https://twitter.com/thierrykoblentz)
+
 ## L
 
 ### Bruce Lawson
