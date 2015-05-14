@@ -334,16 +334,16 @@
 
 **фильтр**
 
- - brightness — **яркость**
- - contrast — **контрастность**
- - grayscale — **бесцветность**
- - sepia — **сепия**
- - invert — **инверсия**
- - saturate — **насыщенность**
- - hue-rotate — **поворот цвета**
- - blur — **размытость**
- - opacity — **непрозрачность**
- - drop-shadow — **тень**
+ - filter: brightness — **яркость**
+ - filter: contrast — **контрастность**
+ - filter: grayscale — **бесцветность**
+ - filter: sepia — **сепия**
+ - filter: invert — **инверсия**
+ - filter: saturate — **насыщенность**
+ - filter: hue-rotate — **поворот цвета**
+ - filter: blur — **размытость**
+ - filter: opacity — **непрозрачность**
+ - filter: drop-shadow — **тень**
 
 ### float
 
