@@ -109,6 +109,10 @@
 
 ## R
 
+### John Resig
+
+**Джон Резиг —** [ejohn.org](http://ejohn.org/)
+
 ### Harry Roberts
 
 **Гарри Робертс —** [csswizardry.com](http://csswizardry.com), [@csswizardry](https://twitter.com/csswizardry)
