@@ -40,6 +40,10 @@
 
 **Ти Джей Головайчук —** [tjholowaychuk.com](http://www.tjholowaychuk.com/), [@tjholowaychuk](https://twitter.com/tjholowaychuk)
 
+### Molly Holzschlag
+
+**Молли Хольцшлаг —** [www.molly.com](http://www.molly.com/), [@mollydotcom](https://twitter.com/mollydotcom)
+
 ## I
 
 ### Manoela Ilic (aka Mary Lou)
