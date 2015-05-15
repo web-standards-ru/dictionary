@@ -81,6 +81,10 @@
 
 **Зак Лезерман —** [www.zachleat.com](http://www.zachleat.com/web/), [@zachleat](http://twitter.com/zachleat)
 
+### Håkon Wium Lie
+
+**Хокон Виум Ли —** [people.opera.com/howcome](http://people.opera.com/howcome/)
+
 ## M
 
 ### Charles McCathieNevile
