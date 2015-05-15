@@ -10,6 +10,10 @@
 
 ## C
 
+### Dan Cederholm
+
+**Дэн Седерхольм —** [simplebits.com](http://simplebits.com/), [@simplebits](https://twitter.com/simplebits)
+
 ### Chris Coyier
 
 **Крис Койер —** [css-tricks.com](http://css-tricks.com), [@chriscoyier](https://twitter.com/chriscoyier)
