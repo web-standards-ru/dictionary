@@ -134,6 +134,10 @@
 
 **кандидат в рекомендации,** статус спецификации [W3C](#world-wide-web-consortium-w3c), один из возможных вариантов для [предложенной рекомендации](#proposed-recommendation-pr).
 
+### cascade
+
+**каскад,** описанная в спецификации CSS схема, определяющая порядок применения к элементу блоков стилей — в зависимости от их источника, важности, [специфичности](https://github.com/web-standards-ru/dictionary/blob/master/Dictionary.md#specificity) и положения в коде. Ошибочно «каскадом» иногда называют [селектор потомка](https://github.com/web-standards-ru/dictionary/blob/master/Dictionary.md#selector).
+
 ### cell
 
 **ячейка**
