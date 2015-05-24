@@ -6,13 +6,13 @@
 
 ### Rachel Andrew
 
-**Рэйчел Эндрю —** [webdesignerdepot.com](http://www.webdesignerdepot.com), [@rachelandrew](https://twitter.com/rachelandrew)
+**Рэйчел Э́ндрю —** [webdesignerdepot.com](http://www.webdesignerdepot.com), [@rachelandrew](https://twitter.com/rachelandrew)
 
 ## C
 
 ### Dan Cederholm
 
-**Дэн Седерхольм —** [simplebits.com](http://simplebits.com/), [@simplebits](https://twitter.com/simplebits)
+**Дэн Се́дерхольм —** [simplebits.com](http://simplebits.com/), [@simplebits](https://twitter.com/simplebits)
 
 ### Chris Coyier
 
@@ -28,25 +28,25 @@
 
 ### Hugo Giraudel
 
-**Хьюго Жиродель —** [hugogiraudel.com](http://hugogiraudel.com/), [@HugoGiraudel](https://twitter.com/HugoGiraudel)
+**Хьюго Жироде́ль —** [hugogiraudel.com](http://hugogiraudel.com/), [@HugoGiraudel](https://twitter.com/HugoGiraudel)
 
 ### Ilya Grigorik
 
-**Илья Григорик —** [www.igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
+**Илья Григо́рик —** [www.igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
 
 ## H
 
 ### Ariya Hidayat
 
-**Ари́я Хидаят —** [ariya.ofilabs.com](http://ariya.ofilabs.com/), [@ariyahidayat](http://twitter.com/ariyahidayat)
+**Ари́я Хидая́т —** [ariya.ofilabs.com](http://ariya.ofilabs.com/), [@ariyahidayat](http://twitter.com/ariyahidayat)
 
 ### TJ Holowaychuk
 
-**Ти Джей Головайчук —** [tjholowaychuk.com](http://www.tjholowaychuk.com/), [@tjholowaychuk](https://twitter.com/tjholowaychuk)
+**Ти Джей Головайчу́к —** [tjholowaychuk.com](http://www.tjholowaychuk.com/), [@tjholowaychuk](https://twitter.com/tjholowaychuk)
 
 ### Molly Holzschlag
 
-**Молли Хольцшлаг —** [www.molly.com](http://www.molly.com/), [@mollydotcom](https://twitter.com/mollydotcom)
+**Молли Хо́льцшлаг —** [www.molly.com](http://www.molly.com/), [@mollydotcom](https://twitter.com/mollydotcom)
 
 ## I
 
@@ -58,7 +58,7 @@
 
 ### Roger Johansson
 
-**Роджер Йоханссон —**  [www.456bereastreet.com](http://www.456bereastreet.com), [@rogerjohansson](https://twitter.com/rogerjohansson)
+**Роджер Йо́ханссон —**  [www.456bereastreet.com](http://www.456bereastreet.com), [@rogerjohansson](https://twitter.com/rogerjohansson)
 
 ### Henrik Joreteg
 
@@ -69,7 +69,7 @@
 
 ### Anne van Kesteren
 
-**Анне ван Кестерен —** [annevankesteren.nl](https://annevankesteren.nl/), [@annevk](https://twitter.com/annevk)
+**Анне ван Ке́стерен —** [annevankesteren.nl](https://annevankesteren.nl/), [@annevk](https://twitter.com/annevk)
 
 ### Thierry Koblentz
 
@@ -79,11 +79,11 @@
 
 ### Bruce Lawson
 
-**Брюс Лоусон —** [brucelawson.co.uk](http://www.brucelawson.co.uk), [@brucel](https://twitter.com/brucel)
+**Брюс Ло́усон —** [brucelawson.co.uk](http://www.brucelawson.co.uk), [@brucel](https://twitter.com/brucel)
 
 ### Zach Leatherman
 
-**Зак Лезерман —** [www.zachleat.com](http://www.zachleat.com/web/), [@zachleat](http://twitter.com/zachleat)
+**Зак Ле́зерман —** [www.zachleat.com](http://www.zachleat.com/web/), [@zachleat](http://twitter.com/zachleat)
 
 ### Håkon Wium Lie
 
@@ -115,7 +115,7 @@
 
 ### John Resig
 
-**Джон Резиг —** [ejohn.org](http://ejohn.org/)
+**Джон Ре́зиг —** [ejohn.org](http://ejohn.org/)
 
 ### Harry Roberts
 
@@ -123,7 +123,7 @@
 
 ### Paul Rouget
 
-**Поль Руже —** [paulrouget.com](http://paulrouget.com/)
+**Поль Руже́ —** [paulrouget.com](http://paulrouget.com/)
 
 ## S
 
@@ -139,13 +139,13 @@
 
 ### Lea Verou
 
-**Лиа Веру —** [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
+**Лиа Веру́ —** [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
 
 ## W
 
 ### Luke Wroblewski
 
-**Люк Вроблевски —** [lukew.com](http://www.lukew.com), [@lukew](https://twitter.com/lukew)
+**Люк Вробле́вски —** [lukew.com](http://www.lukew.com), [@lukew](https://twitter.com/lukew)
 
 ## Z
 
