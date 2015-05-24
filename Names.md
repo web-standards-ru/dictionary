@@ -111,10 +111,6 @@
 
 **Хейдон Пи́керинг —** [heydonworks.com](http://heydonworks.com), [@heydonworks](https://twitter.com/heydonworks)
 
-### Paul Rouget
-
-**Поль Руже —** [paulrouget.com](http://paulrouget.com/)
-
 ## R
 
 ### John Resig
@@ -124,6 +120,10 @@
 ### Harry Roberts
 
 **Гарри Робертс —** [csswizardry.com](http://csswizardry.com), [@csswizardry](https://twitter.com/csswizardry)
+
+### Paul Rouget
+
+**Поль Руже —** [paulrouget.com](http://paulrouget.com/)
 
 ## S
 
