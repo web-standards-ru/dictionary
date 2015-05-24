@@ -107,6 +107,10 @@
 
 ## P
 
+### Heydon Pickering
+
+**Хейдон Пи́керинг —** [heydonworks.com](http://heydonworks.com), [@heydonworks](https://twitter.com/heydonworks)
+
 ### Paul Rouget
 
 **Поль Руже —** [paulrouget.com](http://paulrouget.com/)
