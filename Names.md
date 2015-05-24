@@ -22,7 +22,7 @@
 
 ### Ian Devlin
 
-**Иэн Дэвлин —** [www.iandevlin.com](http://www.iandevlin.com/), [@iandevlin](https://twitter.com/iandevlin)
+**Иэн Дэвлин —** [iandevlin.com](http://www.iandevlin.com/), [@iandevlin](https://twitter.com/iandevlin)
 
 ## G
 
@@ -32,7 +32,7 @@
 
 ### Ilya Grigorik
 
-**Илья Григо́рик —** [www.igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
+**Илья Григо́рик —** [igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
 
 ## H
 
@@ -46,7 +46,7 @@
 
 ### Molly Holzschlag
 
-**Молли Хо́льцшлаг —** [www.molly.com](http://www.molly.com/), [@mollydotcom](https://twitter.com/mollydotcom)
+**Молли Хо́льцшлаг —** [molly.com](http://www.molly.com/), [@mollydotcom](https://twitter.com/mollydotcom)
 
 ## I
 
@@ -58,7 +58,7 @@
 
 ### Roger Johansson
 
-**Роджер Йо́ханссон —**  [www.456bereastreet.com](http://www.456bereastreet.com), [@rogerjohansson](https://twitter.com/rogerjohansson)
+**Роджер Йо́ханссон —**  [456bereastreet.com](http://www.456bereastreet.com), [@rogerjohansson](https://twitter.com/rogerjohansson)
 
 ### Henrik Joreteg
 
@@ -73,7 +73,7 @@
 
 ### Thierry Koblentz
 
-**Тьерри Кобленц —** [www.cssmojo.com](http://www.cssmojo.com/), [@thierrykoblentz](https://twitter.com/thierrykoblentz)
+**Тьерри Кобленц —** [cssmojo.com](http://www.cssmojo.com/), [@thierrykoblentz](https://twitter.com/thierrykoblentz)
 
 ## L
 
@@ -83,7 +83,7 @@
 
 ### Zach Leatherman
 
-**Зак Ле́зерман —** [www.zachleat.com](http://www.zachleat.com/web/), [@zachleat](http://twitter.com/zachleat)
+**Зак Ле́зерман —** [zachleat.com](http://www.zachleat.com/web/), [@zachleat](http://twitter.com/zachleat)
 
 ### Håkon Wium Lie
 
@@ -129,7 +129,7 @@
 
 ### Dave Shea
 
-**Дейв Шей —** [www.mezzoblue.com](http://www.mezzoblue.com/), [@mezzoblue](https://twitter.com/mezzoblue)
+**Дейв Шей —** [mezzoblue.com](http://www.mezzoblue.com/), [@mezzoblue](https://twitter.com/mezzoblue)
 
 ### Sara Soueidan
 
@@ -151,4 +151,4 @@
 
 ### Jeffrey Zeldman
 
-**Джеффри Зельдман —** [www.zeldman.com](http://www.zeldman.com/), [@zeldman](https://twitter.com/zeldman)
+**Джеффри Зельдман —** [zeldman.com](http://www.zeldman.com/), [@zeldman](https://twitter.com/zeldman)
