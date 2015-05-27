@@ -37,6 +37,12 @@
 
 **директива,** тип [объявления](#statement), начинающегося со знака `@`, напр. _@import_.
 
+### attribute
+
+**атрибут,** напр. `rel="stylesheet"`.
+	- attribute name — **название атрибута**
+	- attribute value — **значение атрибута**
+
 ## B
 
 ### back-end
