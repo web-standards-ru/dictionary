@@ -245,6 +245,17 @@
 
 **содержимое**
 
+- metadata content — **метасодержимое**
+- flow content — **потоковое содержимое**
+- sectioning content — **структурное содержимое**
+- heading content — **заголовочное содержимое**
+- phrasing content — **текстовое содержимое**
+- embedded content — **внедряемое содержимое**
+- interactive content — **интерактивное содержимое**
+- palpable content — **содержимое для вывода**
+- script-supporting content — **скриптовое содержимое**
+- grouping content — **группирующее содержимое**
+
 ### cross-browser
 
 **кроссбра́узерный,** работающий во всех браузерах, слитно.
