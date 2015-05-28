@@ -40,8 +40,9 @@
 ### attribute
 
 **атрибут,** напр. `rel="stylesheet"`.
-	- attribute name — **название атрибута**
-	- attribute value — **значение атрибута**
+
+- attribute name — **название атрибута**
+- attribute value — **значение атрибута**
 
 ## B
 
