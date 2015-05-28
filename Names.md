@@ -71,6 +71,10 @@
 
 **Анне ван Ке́стерен —** [annevankesteren.nl](https://annevankesteren.nl/), [@annevk](https://twitter.com/annevk)
 
+### Laura Kalbag
+
+**Лаура Калбэг —** [laurakalbag.com](https://laurakalbag.com/), [@laurakalbag](https://twitter.com/laurakalbag)
+
 ### Thierry Koblentz
 
 **Тьерри Кобленц —** [cssmojo.com](http://www.cssmojo.com/), [@thierrykoblentz](https://twitter.com/thierrykoblentz)
