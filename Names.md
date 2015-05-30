@@ -73,7 +73,7 @@
 
 ### Laura Kalbag
 
-**Лаура Калбэг —** [laurakalbag.com](https://laurakalbag.com/), [@laurakalbag](https://twitter.com/laurakalbag)
+**Лора Ка́лбэг —** [laurakalbag.com](https://laurakalbag.com/), [@laurakalbag](https://twitter.com/laurakalbag)
 
 ### Thierry Koblentz
 
