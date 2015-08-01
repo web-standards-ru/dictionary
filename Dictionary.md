@@ -893,7 +893,7 @@
 
 **корень**
 
-### rounder corners
+### rounded corners
 
 **скруглённые углы,** напр. _rounded corners are out of fashion — скруглённые углы вышли из моды,_ см. также [скругление рамки](#border-radius).
 
