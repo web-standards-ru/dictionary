@@ -8,6 +8,12 @@
 
 **Рэйчел Э́ндрю** — [webdesignerdepot.com](http://www.webdesignerdepot.com), [@rachelandrew](https://twitter.com/rachelandrew)
 
+## B
+
+### Brendan Eich
+
+**Брендан Айк** — [brendaneich.com](https://brendaneich.com), [@brendaneich](https://twitter.com/brendaneich)
+
 ## C
 
 ### Dan Cederholm
