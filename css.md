@@ -137,4 +137,4 @@
 **бра́узерный пре́фикс,** приставка к CSS-свойству `-webkit-` или `-moz-`, напр. _add vendor prefixes — добавьте браузерные префиксы._
 
 ---
-[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редактор [Вадим Макеев](http://pepelsbey.net) и [Ольга Алексашенко](http://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](LICENSE.md).
+[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редакторы [Вадим Макеев](http://pepelsbey.net) и [Ольга Алексашенко](http://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](LICENSE.md).

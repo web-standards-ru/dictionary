@@ -17,4 +17,4 @@
 В составлении словаря может принять участие любой желающий. Вы можете предложить новый термин, открыть обсуждение перевода или просто исправить ошибку или неточность. Читайте подробнее [в правилах участия](CONTRIBUTING.md).
 
 ---
-[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редактор [Вадим Макеев](http://pepelsbey.net) и [Ольга Алексашенко](http://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](LICENSE.md).
+[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редакторы [Вадим Макеев](http://pepelsbey.net) и [Ольга Алексашенко](http://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](LICENSE.md).
