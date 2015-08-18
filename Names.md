@@ -24,6 +24,12 @@
 
 **Иэн Дэвлин —** [iandevlin.com](http://www.iandevlin.com/), [@iandevlin](https://twitter.com/iandevlin)
 
+## E
+
+### Elika J. Etemad
+
+**Э́лика Э́темад —** [fantasai.inkedblade.net](http://fantasai.inkedblade.net/), [@fantasai](https://twitter.com/fantasai)
+
 ## G
 
 ### Hugo Giraudel
