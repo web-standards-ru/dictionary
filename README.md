@@ -1,4 +1,4 @@
-# [Словарь терминов по фронтенду](Dictionary.md)
+# [Словарь терминов по фронтенду](dictionary.md)
 
 Оглавление: [A](Dictionary.md#a) [B](Dictionary.md#b) [C](Dictionary.md#c) [D](Dictionary.md#d) [E](Dictionary.md#e) [F](Dictionary.md#f) [G](Dictionary.md#g) [H](Dictionary.md#h) [I](Dictionary.md#i) J [K](Dictionary.md#k) [L](Dictionary.md#l) [M](Dictionary.md#m) [N](Dictionary.md#n) [O](Dictionary.md#o) [P](Dictionary.md#p) [Q](Dictionary.md#q) [R](Dictionary.md#r) [S](Dictionary.md#s) [T](Dictionary.md#t) [U](Dictionary.md#u) [V](Dictionary.md#v) [W](Dictionary.md#w) X Y Z
 
@@ -14,7 +14,7 @@
 
 ## Участие
 
-В составлении словаря может принять участие любой желающий. Вы можете предложить новый термин, открыть обсуждение перевода или просто исправить ошибку или неточность. Читайте подробнее [в правилах участия](Contributing.md).
+В составлении словаря может принять участие любой желающий. Вы можете предложить новый термин, открыть обсуждение перевода или просто исправить ошибку или неточность. Читайте подробнее [в правилах участия](CONTRIBUTING.md).
 
 ---
-[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редактор [Вадим Макеев](http://pepelsbey.net). Распространяется по лицензии [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редактор [Вадим Макеев](http://pepelsbey.net) и [Ольга Алексашенко](http://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](LICENSE.md).

@@ -74,3 +74,6 @@
 ### text
 
 **текст**
+
+---
+[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редактор [Вадим Макеев](http://pepelsbey.net) и [Ольга Алексашенко](http://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](LICENSE.md).
