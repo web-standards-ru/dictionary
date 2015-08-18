@@ -68,8 +68,7 @@
 
 ### Henrik Joreteg
 
-**Хенрик Йортег** — [joreteg.com](http://joreteg.com/),
-[@henrikjoreteg](https://twitter.com/henrikjoreteg)
+**Хенрик Йортег** — [joreteg.com](http://joreteg.com/), [@henrikjoreteg](https://twitter.com/henrikjoreteg)
 
 ## K
 
@@ -129,7 +128,7 @@
 
 ### John Resig
 
-**Джон Ре́зиг** — [ejohn.org](http://ejohn.org/)
+**Джон Ре́зиг** — [ejohn.org](http://ejohn.org/), [@jeresig](https://twitter.com/jeresig)
 
 ### Harry Roberts
 
