@@ -71,6 +71,10 @@
 
 **Анне ван Ке́стерен —** [annevankesteren.nl](https://annevankesteren.nl/), [@annevk](https://twitter.com/annevk)
 
+### Peter-Paul Koch aka PPK
+
+**Питер-Пол Кох** или **ППК —** [quirksmode.org](http://quirksmode.org/), [@ppk](https://twitter.com/ppk)
+
 ### Laura Kalbag
 
 **Лора Ка́лбэг —** [laurakalbag.com](https://laurakalbag.com/), [@laurakalbag](https://twitter.com/laurakalbag)
