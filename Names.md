@@ -106,7 +106,7 @@
 
 ### Charles McCathieNevile
 
-**Чарльз МакКетиНевил** — [@chaals](https://twitter.com/chaals)
+**Чарльз МакКетиНевил** — [w3.org/People/Charles](http://www.w3.org/People/Charles/), [@chaals](https://twitter.com/chaals)
 
 ### Eric Meyer
 
