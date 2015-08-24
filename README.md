@@ -1,6 +1,6 @@
 # [Словарь терминов по фронтенду](dictionary.md)
 
-Оглавление: [A](Dictionary.md#a) [B](Dictionary.md#b) [C](Dictionary.md#c) [D](Dictionary.md#d) [E](Dictionary.md#e) [F](Dictionary.md#f) [G](Dictionary.md#g) [H](Dictionary.md#h) [I](Dictionary.md#i) J [K](Dictionary.md#k) [L](Dictionary.md#l) [M](Dictionary.md#m) [N](Dictionary.md#n) [O](Dictionary.md#o) [P](Dictionary.md#p) [Q](Dictionary.md#q) [R](Dictionary.md#r) [S](Dictionary.md#s) [T](Dictionary.md#t) [U](Dictionary.md#u) [V](Dictionary.md#v) [W](Dictionary.md#w) X Y Z
+Оглавление: [A](dictionary.md#a) [B](dictionary.md#b) [C](dictionary.md#c) [D](dictionary.md#d) [E](dictionary.md#e) [F](dictionary.md#f) [G](dictionary.md#g) [H](dictionary.md#h) [I](dictionary.md#i) J [K](dictionary.md#k) [L](dictionary.md#l) [M](dictionary.md#m) [N](dictionary.md#n) [O](dictionary.md#o) [P](dictionary.md#p) [Q](dictionary.md#q) [R](dictionary.md#r) [S](dictionary.md#s) [T](dictionary.md#t) [U](dictionary.md#u) [V](dictionary.md#v) [W](dictionary.md#w) X Y Z
 
 Сборник переводных терминов по фронтенду и клиентским технологиям с определениями и примерами, принятый к использованию в редакции «[Веб-стандартов](http://web-standards.ru)» и рекомендованный для всей русскоязычной литературы о веб-технологиях.
 
