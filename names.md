@@ -48,6 +48,10 @@
 
 ## H
 
+### Christian Heilmann
+
+**Кри́стиан Ха́йльман** — [christianheilmann.com](http://christianheilmann.com), [@codepo8](https://twitter.com/codepo8)
+
 ### Ariya Hidayat
 
 **Ари́я Хидая́т** — [ariya.ofilabs.com](http://ariya.ofilabs.com/), [@ariyahidayat](http://twitter.com/ariyahidayat)
