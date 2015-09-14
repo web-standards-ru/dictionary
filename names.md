@@ -172,7 +172,7 @@
 
 ### Léonie Watson
 
-**Ле́они Уотсон** — [LJWatson.co.uk](http://LJWatson.co.uk), [@leoniewatson](https://twitter.com/leoniewatson)
+**Лео́ни Уотсон** — [LJWatson.co.uk](http://LJWatson.co.uk), [@leoniewatson](https://twitter.com/leoniewatson)
 
 ## Z
 
