@@ -170,6 +170,10 @@
 
 **Люк Вробле́вски** — [lukew.com](http://www.lukew.com), [@lukew](https://twitter.com/lukew)
 
+### Léonie Watson
+
+**Лео́ни Уотсон** — [LJWatson.co.uk](http://LJWatson.co.uk), [@leoniewatson](https://twitter.com/leoniewatson)
+
 ## Z
 
 ### Jeffrey Zeldman
