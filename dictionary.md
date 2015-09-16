@@ -101,7 +101,7 @@
 
 ### border-radius
 
-**скругление рамки,** напр., _border-radius:3px — скругление рамки на 3 пикселя, border-top-left-radius — скругление верхнего левого угла,_ см. также [скруглённые углы](#rounder-corners).
+**скругление рамки,** напр., _border-radius:3px — скругление рамки на 3 пикселя, border-top-left-radius — скругление верхнего левого угла,_ см. также [скруглённые углы](#rounded-corners).
 
 ### bounding box
 
@@ -893,7 +893,7 @@
 
 **корень**
 
-### rounder corners
+### rounded corners
 
 **скруглённые углы,** напр. _rounded corners are out of fashion — скруглённые углы вышли из моды,_ см. также [скругление рамки](#border-radius).
 
