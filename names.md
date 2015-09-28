@@ -66,7 +66,7 @@
 
 ## I
 
-### Manoela Ilic (aka Mary Lou)
+### Manoela Ilic (Mary Lou)
 
 **Маноэла Илик (Мэри Лу)** — [tympanus.net](http://tympanus.net/codrops/author/crnacura/), [@crnacura](https://twitter.com/crnacura)
 
@@ -89,9 +89,9 @@
 
 **Анне ван Ке́стерен** — [annevankesteren.nl](https://annevankesteren.nl/), [@annevk](https://twitter.com/annevk)
 
-### Peter-Paul Koch aka PPK
+### Peter-Paul Koch (PPK)
 
-**Питер-Пол Кох** или **ППК** — [quirksmode.org](http://quirksmode.org/), [@ppk](https://twitter.com/ppk)
+**Питер-Пол Кох (ППК)** — [quirksmode.org](http://quirksmode.org/), [@ppk](https://twitter.com/ppk)
 
 ### Laura Kalbag
 
