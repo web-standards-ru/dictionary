@@ -158,6 +158,10 @@
 
 **Сара Суайда́н** — [sarasoueidan.com](http://sarasoueidan.com), [@SaraSoueidan](https://twitter.com/SaraSoueidan)
 
+### Kyle Simpson
+
+**Кайл Симпсон** - [getify.me](http://getify.me/), [@getify](https://twitter.com/getify)
+
 ## V
 
 ### Lea Verou
