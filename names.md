@@ -160,7 +160,7 @@
 
 ### Kyle Simpson
 
-**Кайл Симпсон** - [getify.me](http://getify.me/), [@getify](https://twitter.com/getify)
+**Кайл Симпсон** — [getify.me](http://getify.me/), [@getify](https://twitter.com/getify)
 
 ## V
 
