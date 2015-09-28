@@ -70,6 +70,9 @@
 
 **Маноэла Илик (Мэри Лу)** — [tympanus.net](http://tympanus.net/codrops/author/crnacura/), [@crnacura](https://twitter.com/crnacura)
 
+### Paul Irish
+**Пол Айриш** — [paulirish.com](http://www.paulirish.com/), [@paul_irish](https://twitter.com/paul_irish)
+
 ## J
 
 ### Roger Johansson
