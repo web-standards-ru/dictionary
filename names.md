@@ -38,6 +38,10 @@
 
 ## G
 
+### Zoe Gillenwater
+
+**Зоуи Гилленуотер** — [zomigi.com](http://zomigi.com/), [@zomigi](https://twitter.com/zomigi)
+
 ### Hugo Giraudel
 
 **Хьюго Жироде́ль** — [hugogiraudel.com](http://hugogiraudel.com/), [@HugoGiraudel](https://twitter.com/HugoGiraudel)
