@@ -153,7 +153,7 @@
 
 ### Zeno Rocha
 
-**Зено Роча** — [http://zenorocha.com/], [@zenorocha](https://twitter.com/zenorocha)
+**Зено Роча** — [zenorocha.com](http://zenorocha.com/), [@zenorocha](https://twitter.com/zenorocha)
 
 ### Paul Rouget
 
