@@ -151,6 +151,10 @@
 
 **Гарри Робертс** — [csswizardry.com](http://csswizardry.com), [@csswizardry](https://twitter.com/csswizardry)
 
+### Zeno Rocha
+
+**Зено Роча** — [http://zenorocha.com/], [@zenorocha](https://twitter.com/zenorocha)
+
 ### Paul Rouget
 
 **Поль Руже́** — [paulrouget.com](http://paulrouget.com/)
