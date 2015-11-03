@@ -38,6 +38,10 @@
 
 ## G
 
+### Nicolas Gallagher
+
+**Николас Галахер** — [nicolasgallagher.com](http://nicolasgallagher.com), [@necolas](https://twitter.com/necolas)
+
 ### Zoe Gillenwater
 
 **Зоуи Гилленуотер** — [zomigi.com](http://zomigi.com/), [@zomigi](https://twitter.com/zomigi)
