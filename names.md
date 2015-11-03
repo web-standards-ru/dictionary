@@ -1,6 +1,6 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: [A](#a) B [C](#c) [D](#d) [E](#e) F [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) N [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
+Оглавление: [A](#a) B [C](#c) [D](#d) [E](#e) F [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
 
 ## A
 
@@ -128,6 +128,12 @@
 ### Eric Meyer
 
 **Эрик Мейер** — [meyerweb.com](http://meyerweb.com), [@meyerweb](https://twitter.com/meyerweb)
+
+## N
+
+### Jonathan T. Neal
+
+**Джонатан Нил** — [jonathantneal.com](http://www.jonathantneal.com), [@jon_neal](https://twitter.com/jon_neal)
 
 ## O
 
