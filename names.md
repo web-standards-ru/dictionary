@@ -8,6 +8,10 @@
 
 **Рэйчел Э́ндрю** — [webdesignerdepot.com](http://www.webdesignerdepot.com), [@rachelandrew](https://twitter.com/rachelandrew)
 
+### Ire Aderinokun
+
+**И́ре Аде́ринокун** — [bitsofco.de](http://bitsofco.de/), [@ireaderinokun](https://twitter.com/ireaderinokun)
+
 ## B
 
 ### Brendan Eich
