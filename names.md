@@ -201,13 +201,17 @@
 
 ## W
 
-### Luke Wroblewski
-
-**Люк Вробле́вски** — [lukew.com](http://www.lukew.com), [@lukew](https://twitter.com/lukew)
-
 ### Léonie Watson
 
 **Лео́ни Уотсон** — [LJWatson.co.uk](http://LJWatson.co.uk), [@leoniewatson](https://twitter.com/leoniewatson)
+
+### Estelle Weyl
+
+**Эстель Вайл** — [www.standardista.com](http://www.standardista.com/), [@standardista](https://twitter.com/standardista)
+
+### Luke Wroblewski
+
+**Люк Вробле́вски** — [lukew.com](http://www.lukew.com), [@lukew](https://twitter.com/lukew)
 
 ## Z
 
