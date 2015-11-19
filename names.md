@@ -207,7 +207,7 @@
 
 ### Estelle Weyl
 
-**Эстель Вайл** — [www.standardista.com](http://www.standardista.com/), [@standardista](https://twitter.com/standardista)
+**Эстель Вайл** — [standardista.com](http://www.standardista.com/), [@standardista](https://twitter.com/standardista)
 
 ### Luke Wroblewski
 
