@@ -604,6 +604,10 @@
 
 ## L
 
+### label
+
+**метка**
+
 ### last call (LC)
 
 **последний черновик,** статус спецификации [W3C](#world-wide-web-consortium-w3c) для последних правок перед статусом [кандидата в рекомендации](#candidate-recommendation-cr).
