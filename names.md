@@ -12,6 +12,10 @@
 
 **И́ре Аде́ринокун** — [bitsofco.de](http://bitsofco.de/), [@ireaderinokun](https://twitter.com/ireaderinokun)
 
+### Tobias Ahlin
+
+**То́биас А́лин** — [tobiasahlin.com](http://tobiasahlin.com/), [@tobiasahlin](https://twitter.com/tobiasahlin)
+
 ## B
 
 ### Brendan Eich
