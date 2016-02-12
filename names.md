@@ -38,6 +38,10 @@
 
 **Иэн Дэвлин** — [iandevlin.com](http://www.iandevlin.com/), [@iandevlin](https://twitter.com/iandevlin)
 
+### Sarah Drasner
+
+**Сара Дрэснер** — [sarahdrasnerdesign.com](http://sarahdrasnerdesign.com/), [@sarah_edo](https://twitter.com/sarah_edo)
+
 ## E
 
 ### Elika J. Etemad
