@@ -1,6 +1,6 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: [A](#a) B [C](#c) [D](#d) [E](#e) F [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) Q [R](#r) [S](#s) T [U](#u) [V](#v) [W](#w) X Y [Z](#z)
+Оглавление: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) F [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
 
 ## A
 
@@ -17,6 +17,10 @@
 **То́биас А́лин** — [tobiasahlin.com](http://tobiasahlin.com/), [@tobiasahlin](https://twitter.com/tobiasahlin)
 
 ## B
+
+### Mathias Bynens
+
+**Матиас Байненс** — [mathiasbynens.be](https://mathiasbynens.be/), [@mathias](https://twitter.com/mathias)
 
 ### Brendan Eich
 
@@ -121,6 +125,10 @@
 
 **Тьерри Кобленц** — [cssmojo.com](http://www.cssmojo.com/), [@thierrykoblentz](https://twitter.com/thierrykoblentz)
 
+### Una Kravets
+
+**Юна Кравец** — [una.im](http://una.im/), [@una](https://twitter.com/una)
+
 ## L
 
 ### Bruce Lawson
@@ -194,12 +202,6 @@
 ### Kyle Simpson
 
 **Кайл Симпсон** — [getify.me](http://getify.me/), [@getify](https://twitter.com/getify)
-
-## U
-
-### Una Kravets
-
-**Юна Кравец** — [una.im](http://una.im/), [@una](https://twitter.com/una)
 
 ## V
 
