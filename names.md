@@ -1,231 +1,234 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: [A](#a) B [C](#c) [D](#d) [E](#e) F [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) Q [R](#r) [S](#s) T [U](#u) [V](#v) [W](#w) X Y [Z](#z)
+Оглавление: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) F [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
 
 ## A
 
-### Rachel Andrew
+### Aderinokun, Ire
 
-**Рэйчел Э́ндрю** — [webdesignerdepot.com](http://www.webdesignerdepot.com), [@rachelandrew](https://twitter.com/rachelandrew)
+**Аде́ринокун, И́ре** — [bitsofco.de](http://bitsofco.de/), [@ireaderinokun](https://twitter.com/ireaderinokun)
 
-### Ire Aderinokun
+### Ahlin, Tobias
 
-**И́ре Аде́ринокун** — [bitsofco.de](http://bitsofco.de/), [@ireaderinokun](https://twitter.com/ireaderinokun)
+**А́лин, То́биас** — [tobiasahlin.com](http://tobiasahlin.com/), [@tobiasahlin](https://twitter.com/tobiasahlin)
 
-### Tobias Ahlin
+### Andrew, Rachel
 
-**То́биас А́лин** — [tobiasahlin.com](http://tobiasahlin.com/), [@tobiasahlin](https://twitter.com/tobiasahlin)
+**Э́ндрю, Рэйчел** — [webdesignerdepot.com](http://www.webdesignerdepot.com), [@rachelandrew](https://twitter.com/rachelandrew)
 
 ## B
 
-### Brendan Eich
+### Brendan, Eich
 
-**Брендан Айк** — [brendaneich.com](https://brendaneich.com), [@brendaneich](https://twitter.com/brendaneich)
+**Брендан, Айк** — [brendaneich.com](https://brendaneich.com), [@brendaneich](https://twitter.com/brendaneich)
+
+### Bynens, Mathias
+
+**Байненс, Матиас** — [mathiasbynens.be](https://mathiasbynens.be/), [@mathias](https://twitter.com/mathias)
 
 ## C
 
-### Dan Cederholm
+### Cederholm, Dan
 
-**Дэн Се́дерхольм** — [simplebits.com](http://simplebits.com/), [@simplebits](https://twitter.com/simplebits)
+**Се́дерхольм, Дэн** — [simplebits.com](http://simplebits.com/), [@simplebits](https://twitter.com/simplebits)
 
-### Chris Coyier
+### Coyier, Chris
 
-**Крис Койер** — [css-tricks.com](http://css-tricks.com), [@chriscoyier](https://twitter.com/chriscoyier)
+**Койер, Крис** — [css-tricks.com](http://css-tricks.com), [@chriscoyier](https://twitter.com/chriscoyier)
 
 ## D
 
-### Ian Devlin
+### Devlin, Ian
 
-**Иэн Дэвлин** — [iandevlin.com](http://www.iandevlin.com/), [@iandevlin](https://twitter.com/iandevlin)
+**Дэвлин, Иэн** — [iandevlin.com](http://www.iandevlin.com/), [@iandevlin](https://twitter.com/iandevlin)
 
-### Sarah Drasner
+### Drasner, Sarah
 
-**Сара Дрэснер** — [sarahdrasnerdesign.com](http://sarahdrasnerdesign.com/), [@sarah_edo](https://twitter.com/sarah_edo)
+**Дрэснер, Сара** — [sarahdrasnerdesign.com](http://sarahdrasnerdesign.com/), [@sarah_edo](https://twitter.com/sarah_edo)
 
 ## E
 
-### Elika J. Etemad
+### Etemad, Elika J.
 
-**Э́лика Э́темад** — [fantasai.inkedblade.net](http://fantasai.inkedblade.net/), [@fantasai](https://twitter.com/fantasai)
+**Э́темад, Э́лика** — [fantasai.inkedblade.net](http://fantasai.inkedblade.net/), [@fantasai](https://twitter.com/fantasai)
 
 ## G
 
-### Nicolas Gallagher
+### Gallagher, Nicolas
 
-**Николас Галахер** — [nicolasgallagher.com](http://nicolasgallagher.com), [@necolas](https://twitter.com/necolas)
+**Галахер, Николас** — [nicolasgallagher.com](http://nicolasgallagher.com), [@necolas](https://twitter.com/necolas)
 
-### Zoe Gillenwater
+### Gillenwater, Zoe
 
-**Зоуи Гилленуотер** — [zomigi.com](http://zomigi.com/), [@zomigi](https://twitter.com/zomigi)
+**Гилленуотер, Зоуи** — [zomigi.com](http://zomigi.com/), [@zomigi](https://twitter.com/zomigi)
 
-### Hugo Giraudel
+### Giraudel, Hugo
 
-**Хьюго Жироде́ль** — [hugogiraudel.com](http://hugogiraudel.com/), [@HugoGiraudel](https://twitter.com/HugoGiraudel)
+**Жироде́ль, Хьюго** — [hugogiraudel.com](http://hugogiraudel.com/), [@HugoGiraudel](https://twitter.com/HugoGiraudel)
 
-### Ilya Grigorik
+### Grigorik, Ilya
 
-**Илья Григо́рик** — [igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
+**Григо́рик, Илья** — [igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
 
 ## H
 
-### Christian Heilmann
+### Heilmann, Christian
 
-**Кри́стиан Ха́йльман** — [christianheilmann.com](http://christianheilmann.com), [@codepo8](https://twitter.com/codepo8)
+**Ха́йльман, Кри́стиан** — [christianheilmann.com](http://christianheilmann.com), [@codepo8](https://twitter.com/codepo8)
 
-### Ariya Hidayat
+### Hidayat, Ariya
 
-**Ари́я Хидая́т** — [ariya.ofilabs.com](http://ariya.ofilabs.com/), [@ariyahidayat](http://twitter.com/ariyahidayat)
+**Хидая́т, Ари́я** — [ariya.ofilabs.com](http://ariya.ofilabs.com/), [@ariyahidayat](http://twitter.com/ariyahidayat)
 
-### TJ Holowaychuk
+### Holowaychuk, TJ
 
-**Ти Джей Головайчу́к** — [tjholowaychuk.com](http://www.tjholowaychuk.com/), [@tjholowaychuk](https://twitter.com/tjholowaychuk)
+**Головайчу́к, Ти Джей** — [tjholowaychuk.com](http://www.tjholowaychuk.com/), [@tjholowaychuk](https://twitter.com/tjholowaychuk)
 
-### Molly Holzschlag
+### Holzschlag, Molly
 
-**Молли Хо́льцшлаг** — [molly.com](http://www.molly.com/), [@mollydotcom](https://twitter.com/mollydotcom)
+**Хо́льцшлаг, Молли** — [molly.com](http://www.molly.com/), [@mollydotcom](https://twitter.com/mollydotcom)
 
 ## I
 
-### Manoela Ilic (Mary Lou)
+### Ilic, Manoela (Mary Lou)
 
-**Маноэла Илик (Мэри Лу)** — [tympanus.net](http://tympanus.net/codrops/author/crnacura/), [@crnacura](https://twitter.com/crnacura)
+**Илик, Маноэла (Мэри Лу)** — [tympanus.net](http://tympanus.net/codrops/author/crnacura/), [@crnacura](https://twitter.com/crnacura)
 
-### Paul Irish
-**Пол Айриш** — [paulirish.com](http://www.paulirish.com/), [@paul_irish](https://twitter.com/paul_irish)
+### Irish, Paul
+
+**Айриш, Пол** — [paulirish.com](http://www.paulirish.com/), [@paul_irish](https://twitter.com/paul_irish)
 
 ## J
 
-### Roger Johansson
+### Johansson, Roger
 
-**Роджер Йо́ханссон** —  [456bereastreet.com](http://www.456bereastreet.com), [@rogerjohansson](https://twitter.com/rogerjohansson)
+**Йо́ханссон, Роджер** —  [456bereastreet.com](http://www.456bereastreet.com), [@rogerjohansson](https://twitter.com/rogerjohansson)
 
-### Henrik Joreteg
+### Joreteg, Henrik
 
-**Хенрик Йортег** — [joreteg.com](http://joreteg.com/), [@henrikjoreteg](https://twitter.com/henrikjoreteg)
+**Йортег, Хенрик** — [joreteg.com](http://joreteg.com/), [@henrikjoreteg](https://twitter.com/henrikjoreteg)
 
 ## K
 
-### Anne van Kesteren
+### Kalbag, Laura
 
-**Анне ван Ке́стерен** — [annevankesteren.nl](https://annevankesteren.nl/), [@annevk](https://twitter.com/annevk)
+**Ка́лбэг, Лора** — [laurakalbag.com](https://laurakalbag.com/), [@laurakalbag](https://twitter.com/laurakalbag)
 
-### Peter-Paul Koch (PPK)
+### Kesteren, Anne van
 
-**Питер-Пол Кох (ППК)** — [quirksmode.org](http://quirksmode.org/), [@ppk](https://twitter.com/ppk)
+**Ке́стерен, Анне ван** — [annevankesteren.nl](https://annevankesteren.nl/), [@annevk](https://twitter.com/annevk)
 
-### Laura Kalbag
+### Koblentz, Thierry
 
-**Лора Ка́лбэг** — [laurakalbag.com](https://laurakalbag.com/), [@laurakalbag](https://twitter.com/laurakalbag)
+**Кобленц, Тьерри** — [cssmojo.com](http://www.cssmojo.com/), [@thierrykoblentz](https://twitter.com/thierrykoblentz)
 
-### Thierry Koblentz
+### Koch, Peter-Paul (PPK)
 
-**Тьерри Кобленц** — [cssmojo.com](http://www.cssmojo.com/), [@thierrykoblentz](https://twitter.com/thierrykoblentz)
+**Кох, Питер-Пол (ППК)** — [quirksmode.org](http://quirksmode.org/), [@ppk](https://twitter.com/ppk)
+
+### Kravets, Una
+
+**Кравец, Юна** — [una.im](http://una.im/), [@una](https://twitter.com/una)
 
 ## L
 
-### Bruce Lawson
+### Lawson, Bruce
 
-**Брюс Ло́усон** — [brucelawson.co.uk](http://www.brucelawson.co.uk), [@brucel](https://twitter.com/brucel)
+**Ло́усон, Брюс** — [brucelawson.co.uk](http://www.brucelawson.co.uk), [@brucel](https://twitter.com/brucel)
 
-### Zach Leatherman
+### Leatherman, Zach
 
-**Зак Ле́зерман** — [zachleat.com](http://www.zachleat.com/web/), [@zachleat](http://twitter.com/zachleat)
+**Ле́зерман, Зак** — [zachleat.com](http://www.zachleat.com/web/), [@zachleat](http://twitter.com/zachleat)
 
-### Håkon Wium Lie
+### Lie, Håkon Wium
 
-**Хокон Виум Ли** — [people.opera.com/howcome](http://people.opera.com/howcome/)
+**Ли, Хокон Виум** — [people.opera.com/howcome](http://people.opera.com/howcome/)
 
 ## M
 
-### Charles McCathieNevile
+### McCathieNevile, Charles
 
-**Чарльз МакКетиНевил** — [w3.org/People/Charles](http://www.w3.org/People/Charles/), [@chaals](https://twitter.com/chaals)
+**МакКетиНевил, Чарльз** — [w3.org/People/Charles](http://www.w3.org/People/Charles/), [@chaals](https://twitter.com/chaals)
 
-### Eric Meyer
+### Meyer, Eric
 
-**Эрик Мейер** — [meyerweb.com](http://meyerweb.com), [@meyerweb](https://twitter.com/meyerweb)
+**Мейер, Эрик** — [meyerweb.com](http://meyerweb.com), [@meyerweb](https://twitter.com/meyerweb)
 
 ## N
 
-### Jonathan T. Neal
+### Neal, Jonathan T.
 
-**Джонатан Нил** — [jonathantneal.com](http://www.jonathantneal.com), [@jon_neal](https://twitter.com/jon_neal)
+**Нил, Джонатан** — [jonathantneal.com](http://www.jonathantneal.com), [@jon_neal](https://twitter.com/jon_neal)
 
 ## O
 
-### Addy Osmani
+### Osmani, Addy
 
-**Эдди Осма́ни** — [addyosmani.com](http://addyosmani.com), [@addyosmani](https://twitter.com/addyosmani)
+**Осма́ни, Эдди** — [addyosmani.com](http://addyosmani.com), [@addyosmani](https://twitter.com/addyosmani)
 
 ## P
 
-### Heydon Pickering
+### Pickering, Heydon
 
-**Хейдон Пи́керинг** — [heydonworks.com](http://heydonworks.com), [@heydonworks](https://twitter.com/heydonworks)
+**Пи́керинг, Хейдон** — [heydonworks.com](http://heydonworks.com), [@heydonworks](https://twitter.com/heydonworks)
 
 ## R
 
-### John Resig
+### Resig, John
 
-**Джон Ре́зиг** — [ejohn.org](http://ejohn.org/), [@jeresig](https://twitter.com/jeresig)
+**Ре́зиг, Джон** — [ejohn.org](http://ejohn.org/), [@jeresig](https://twitter.com/jeresig)
 
-### Harry Roberts
+### Roberts, Harry
 
-**Гарри Робертс** — [csswizardry.com](http://csswizardry.com), [@csswizardry](https://twitter.com/csswizardry)
+**Робертс, Гарри** — [csswizardry.com](http://csswizardry.com), [@csswizardry](https://twitter.com/csswizardry)
 
-### Zeno Rocha
+### Rocha, Zeno
 
-**Зено Роча** — [zenorocha.com](http://zenorocha.com/), [@zenorocha](https://twitter.com/zenorocha)
+**Роча, Зено** — [zenorocha.com](http://zenorocha.com/), [@zenorocha](https://twitter.com/zenorocha)
 
-### Paul Rouget
+### Rouget, Paul
 
-**Поль Руже́** — [paulrouget.com](http://paulrouget.com/)
+**Руже́, Поль** — [paulrouget.com](http://paulrouget.com/)
 
 ## S
 
-### Dave Shea
+### Shea, Dave
 
-**Дейв Шей** — [mezzoblue.com](http://www.mezzoblue.com/), [@mezzoblue](https://twitter.com/mezzoblue)
+**Шей, Дейв** — [mezzoblue.com](http://www.mezzoblue.com/), [@mezzoblue](https://twitter.com/mezzoblue)
 
-### Sara Soueidan
+### Simpson, Kyle
 
-**Сара Суайда́н** — [sarasoueidan.com](http://sarasoueidan.com), [@SaraSoueidan](https://twitter.com/SaraSoueidan)
+**Симпсон, Кайл** — [getify.me](http://getify.me/), [@getify](https://twitter.com/getify)
 
-### Kyle Simpson
+### Soueidan, Sara
 
-**Кайл Симпсон** — [getify.me](http://getify.me/), [@getify](https://twitter.com/getify)
-
-## U
-
-### Una Kravets
-
-**Юна Кравец** — [una.im](http://una.im/), [@una](https://twitter.com/una)
+**Суайда́н, Сара** — [sarasoueidan.com](http://sarasoueidan.com), [@SaraSoueidan](https://twitter.com/SaraSoueidan)
 
 ## V
 
-### Lea Verou
+### Verou, Lea
 
-**Лиа Веру́** — [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
+**Веру́, Лиа** — [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
 
 ## W
 
-### Léonie Watson
+### Watson, Léonie
 
-**Лео́ни Уотсон** — [LJWatson.co.uk](http://LJWatson.co.uk), [@leoniewatson](https://twitter.com/leoniewatson)
+**Уотсон, Лео́ни** — [LJWatson.co.uk](http://LJWatson.co.uk), [@leoniewatson](https://twitter.com/leoniewatson)
 
-### Estelle Weyl
+### Weyl, Estelle
 
-**Эстель Вайл** — [standardista.com](http://www.standardista.com/), [@standardista](https://twitter.com/standardista)
+**Вайл, Эстель** — [standardista.com](http://www.standardista.com/), [@standardista](https://twitter.com/standardista)
 
-### Luke Wroblewski
+### Wroblewski, Luke
 
 **Люк Вробле́вски** — [lukew.com](http://www.lukew.com), [@lukew](https://twitter.com/lukew)
 
 ## Z
 
-### Jeffrey Zeldman
+### Zeldman, Jeffrey
 
-**Джеффри Зельдман** — [zeldman.com](http://www.zeldman.com/), [@zeldman](https://twitter.com/zeldman)
+**Зельдман, Джеффри** — [zeldman.com](http://www.zeldman.com/), [@zeldman](https://twitter.com/zeldman)
 
 ---
 [Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редакторы [Вадим Макеев](http://pepelsbey.net) и [Ольга Алексашенко](http://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).
