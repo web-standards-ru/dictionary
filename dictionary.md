@@ -459,7 +459,7 @@
 - font-weight — **насыщенность**
 
 	- font-weight:normal — **нормальная**
-	- font-weight:bold — **полужирная,** (не _жирная_)
+	- font-weight:bold — **жирная**, (в типографской традиции) **полужирная**
 	- font-weight:bolder — **жирнее**
 	- font-weight:lighter — **светлее**
 
