@@ -200,6 +200,10 @@
 
 **Симпсон, Кайл** — [getify.me](http://getify.me/), [@getify](https://twitter.com/getify)
 
+### Stoiber, Max
+
+**Штойбер, Макс** -- [mxstbr.com](http://mxstbr.com/), [@mxstbr](https://twitter.com/mxstbr)
+
 ### Soueidan, Sara
 
 **Суайда́н, Сара** — [sarasoueidan.com](http://sarasoueidan.com), [@SaraSoueidan](https://twitter.com/SaraSoueidan)
