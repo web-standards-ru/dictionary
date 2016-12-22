@@ -6,7 +6,7 @@
 
 ### Aderinokun, Ire
 
-**Аде́ринокун, И́ре** — [bitsofco.de](http://bitsofco.de/), [@ireaderinokun](https://twitter.com/ireaderinokun)
+**Аде́ринокун, Ирé** — [bitsofco.de](http://bitsofco.de/), [@ireaderinokun](https://twitter.com/ireaderinokun)
 
 ### Ahlin, Tobias
 
