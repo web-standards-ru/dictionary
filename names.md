@@ -36,6 +36,10 @@
 
 **Койер, Крис** — [css-tricks.com](http://css-tricks.com), [@chriscoyier](https://twitter.com/chriscoyier)
 
+### Çelik, Tantek
+
+**Челик, Тантек** — [tantek.com](https://tantek.com), [@t](https://twitter.com/t)
+
 ## D
 
 ### Devlin, Ian
