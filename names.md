@@ -212,6 +212,10 @@
 
 **Суайда́н, Сара** — [sarasoueidan.com](http://sarasoueidan.com), [@SaraSoueidan](https://twitter.com/SaraSoueidan)
 
+### Sorhus, Sindre
+ 
+**Со́рхус, Си́ндре** — [sindresorhus.com](http://sindresorhus.com), [@sindresorhus](https://twitter.com/sindresorhus)
+
 ## V
 
 ### Verou, Lea
