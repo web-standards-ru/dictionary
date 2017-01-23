@@ -112,6 +112,10 @@
 
 **Йортег, Хенрик** — [joreteg.com](http://joreteg.com/), [@henrikjoreteg](https://twitter.com/henrikjoreteg)
 
+### Judis, Stefan
+
+**Ю́дис, Ште́фан** — [stefanjudis.de](https://www.stefanjudis.de/), [@stefanjudis](https://twitter.com/stefanjudis)
+
 ## K
 
 ### Kalbag, Laura
