@@ -206,7 +206,7 @@
 
 ### Stoiber, Max
 
-**Штойбер, Макс** -- [mxstbr.com](http://mxstbr.com/), [@mxstbr](https://twitter.com/mxstbr)
+**Штойбер, Макс** — [mxstbr.com](http://mxstbr.com/), [@mxstbr](https://twitter.com/mxstbr)
 
 ### Soueidan, Sara
 
