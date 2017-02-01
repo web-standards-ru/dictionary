@@ -18,10 +18,6 @@
 
 ## B
 
-### Brendan, Eich
-
-**Брендан, Айк** — [brendaneich.com](https://brendaneich.com), [@brendaneich](https://twitter.com/brendaneich)
-
 ### Bynens, Mathias
 
 **Байненс, Матиас** — [mathiasbynens.be](https://mathiasbynens.be/), [@mathias](https://twitter.com/mathias)
@@ -51,6 +47,10 @@
 **Дрэснер, Сара** — [sarahdrasnerdesign.com](http://sarahdrasnerdesign.com/), [@sarah_edo](https://twitter.com/sarah_edo)
 
 ## E
+
+### Eich, Brendan
+
+**Айк, Брендан** — [brendaneich.com](https://brendaneich.com), [@brendaneich](https://twitter.com/brendaneich)
 
 ### Etemad, Elika J.
 
