@@ -162,6 +162,10 @@
 
 **Мейер, Эрик** — [meyerweb.com](http://meyerweb.com), [@meyerweb](https://twitter.com/meyerweb)
 
+### Manor, Elijah
+
+**Мэнор, Элайджа** — [elijahmanor.com](http://elijahmanor.com), [@elijahmanor](https://twitter.com/elijahmanor)
+
 ## N
 
 ### Neal, Jonathan T.
