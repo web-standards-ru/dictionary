@@ -174,6 +174,10 @@
 
 ## O
 
+### Oliveira, Vincent de
+
+**Оливейра, Венсан Де** — [iamvdo.me](http://iamvdo.me/), [@iamvdo](https://twitter.com/iamvdo)
+
 ### Osmani, Addy
 
 **Осма́ни, Эдди** — [addyosmani.com](http://addyosmani.com), [@addyosmani](https://twitter.com/addyosmani)
@@ -185,6 +189,10 @@
 **Пи́керинг, Хейдон** — [heydonworks.com](http://heydonworks.com), [@heydonworks](https://twitter.com/heydonworks)
 
 ## R
+
+### Rauschmayer, Axel
+
+**Раушмайер, Аксель** — [www.2ality.com](http://www.2ality.com/), [@rauschma](https://twitter.com/rauschma)
 
 ### Resig, John
 
@@ -229,6 +237,10 @@
 ### Verou, Lea
 
 **Веру́, Лиа** — [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
+
+### Verschelde, Florens
+
+**Верше́льд, Флоран** — [fvsch.com](https://fvsch.com/), [@fvsch](https://twitter.com/fvsch)
 
 ## W
 
