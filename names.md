@@ -90,7 +90,7 @@
 
 ### Hickson, Ian
 
-**Хиксон, Иан** — [ian.hixie.ch](http://ian.hixie.ch/), [+IanHickson](https://plus.google.com/+IanHickson)
+**Хиксон, Иэн** — [ian.hixie.ch](http://ian.hixie.ch/), [+IanHickson](https://plus.google.com/+IanHickson)
 
 ### Holowaychuk, TJ
 
