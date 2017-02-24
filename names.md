@@ -84,6 +84,10 @@
 
 **Хидая́т, Ари́я** — [ariya.ofilabs.com](http://ariya.ofilabs.com/), [@ariyahidayat](http://twitter.com/ariyahidayat)
 
+### Hickson, Ian
+
+**Хиксон, Иан** — [ian.hixie.ch](http://ian.hixie.ch/), [+IanHickson](https://plus.google.com/+IanHickson)
+
 ### Holowaychuk, TJ
 
 **Головайчу́к, Ти Джей** — [tjholowaychuk.com](http://www.tjholowaychuk.com/), [@tjholowaychuk](https://twitter.com/tjholowaychuk)
