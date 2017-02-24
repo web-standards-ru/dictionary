@@ -262,7 +262,7 @@
 
 ### Wroblewski, Luke
 
-**Люк Вробле́вски** — [lukew.com](http://www.lukew.com), [@lukew](https://twitter.com/lukew)
+**Вробле́вски, Люк** — [lukew.com](http://www.lukew.com), [@lukew](https://twitter.com/lukew)
 
 ## Z
 
