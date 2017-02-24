@@ -38,6 +38,10 @@
 
 ## D
 
+### Denicola, Domenic
+
+**Деникола, Доменик** — [blog.domenic.me](https://blog.domenic.me/), [@domenic](https://twitter.com/domenic)
+
 ### Devlin, Ian
 
 **Дэвлин, Иэн** — [iandevlin.com](http://www.iandevlin.com/), [@iandevlin](https://twitter.com/iandevlin)
