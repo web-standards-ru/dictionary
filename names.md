@@ -28,6 +28,10 @@
 
 **Се́дерхольм, Дэн** — [simplebits.com](http://simplebits.com/), [@simplebits](https://twitter.com/simplebits)
 
+### Chen, Hui Jing
+
+**Чэнь, Хуэй Цзин** — [chenhuijing.com](https://www.chenhuijing.com/), [@hj_chen](https://twitter.com/hj_chen)
+
 ### Coyier, Chris
 
 **Койер, Крис** — [css-tricks.com](http://css-tricks.com), [@chriscoyier](https://twitter.com/chriscoyier)
