@@ -234,7 +234,7 @@
 
 ### Staltz, André
 
-**Сталц, Андре́** — [staltz.com](https://staltz.com/), [@andrestaltz](https://twitter.com/andrestaltz)
+**Стальц, Андре́** — [staltz.com](https://staltz.com/), [@andrestaltz](https://twitter.com/andrestaltz)
 
 ### Stoiber, Max
 
