@@ -232,6 +232,10 @@
 
 **Симпсон, Кайл** — [getify.me](http://getify.me/), [@getify](https://twitter.com/getify)
 
+### Staltz, André
+
+**Стальц, Андре́** — [staltz.com](https://staltz.com/), [@andrestaltz](https://twitter.com/andrestaltz)
+
 ### Stoiber, Max
 
 **Штойбер, Макс** — [mxstbr.com](http://mxstbr.com/), [@mxstbr](https://twitter.com/mxstbr)
