@@ -176,7 +176,7 @@
 
 ### Meurer, Benedikt
 
-**Мойрер, Бенедикт** - [benediktmeurer.de](http://benediktmeurer.de), [@bmeurer](https://twitter.com/bmeurer)
+**Мо́йрер, Бенеди́кт** — [benediktmeurer.de](http://benediktmeurer.de), [@bmeurer](https://twitter.com/bmeurer)
 
 ### Manor, Elijah
 
