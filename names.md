@@ -174,6 +174,10 @@
 
 **Мейер, Эрик** — [meyerweb.com](http://meyerweb.com), [@meyerweb](https://twitter.com/meyerweb)
 
+### Meurer, Benedikt
+
+**Мо́йрер, Бенеди́кт** — [benediktmeurer.de](http://benediktmeurer.de), [@bmeurer](https://twitter.com/bmeurer)
+
 ### Manor, Elijah
 
 **Мэнор, Элайджа** — [elijahmanor.com](http://elijahmanor.com), [@elijahmanor](https://twitter.com/elijahmanor)
@@ -245,7 +249,7 @@
 **Суайда́н, Сара** — [sarasoueidan.com](http://sarasoueidan.com), [@SaraSoueidan](https://twitter.com/SaraSoueidan)
 
 ### Sorhus, Sindre
- 
+
 **Со́рхус, Си́ндре** — [sindresorhus.com](http://sindresorhus.com), [@sindresorhus](https://twitter.com/sindresorhus)
 
 ## V
