@@ -254,7 +254,7 @@
 
 ### Snook, Jonathan
 
-**Снук, Джонатан** — [snook.ca](https://snook.ca), [@snookca](https://twitter.com/snookca)
+**Снук, Джо́натан** — [snook.ca](https://snook.ca), [@snookca](https://twitter.com/snookca)
 
 ## V
 
