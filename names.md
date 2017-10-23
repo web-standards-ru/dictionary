@@ -238,6 +238,10 @@
 
 ## S
 
+### Sharp, Remy
+
+**Шарп, Реми** — [remysharp.com](https://remysharp.com/), [@rem](https://twitter.com/rem)
+
 ### Shea, Dave
 
 **Шей, Дейв** — [mezzoblue.com](http://www.mezzoblue.com/), [@mezzoblue](https://twitter.com/mezzoblue)
