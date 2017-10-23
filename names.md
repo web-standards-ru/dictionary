@@ -140,6 +140,11 @@
 
 ## K
 
+
+### Kadlec, Tim
+
+**Ка́длек, Тим** — [timkadlec.com](https://timkadlec.com/), [@tkadlec](https://twitter.com/tkadlec)
+
 ### Kalbag, Laura
 
 **Ка́лбэг, Лора** — [laurakalbag.com](https://laurakalbag.com/), [@laurakalbag](https://twitter.com/laurakalbag)
