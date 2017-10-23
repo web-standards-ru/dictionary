@@ -70,6 +70,10 @@
 
 **Фрейн, Бен** — [benfrain.com](https://benfrain.com), [@benfrain](https://twitter.com/benfrain)
 
+### Frost, Brad
+
+**Фрост, Брэд** — [bradfrost.com](http://bradfrost.com), [@brad_frost](https://twitter.com/brad_frost)
+
 ## G
 
 ### Gallagher, Nicolas
