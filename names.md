@@ -64,6 +64,12 @@
 
 **Э́темад, Э́лика** — [fantasai.inkedblade.net](http://fantasai.inkedblade.net/), [@fantasai](https://twitter.com/fantasai)
 
+## F
+
+### Frain, Ben
+
+**Фрейн, Бен** — [benfrain.com](https://benfrain.com), [@benfrain](https://twitter.com/benfrain)
+
 ## G
 
 ### Gallagher, Nicolas
