@@ -252,6 +252,10 @@
 
 **Со́рхус, Си́ндре** — [sindresorhus.com](http://sindresorhus.com), [@sindresorhus](https://twitter.com/sindresorhus)
 
+### Snook, Jonathan
+
+**Снук, Джонатан** — [snook.ca](https://snook.ca), [@snookca](https://twitter.com/snookca)
+
 ## V
 
 ### Verou, Lea
