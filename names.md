@@ -178,6 +178,10 @@
 
 **Ле́зерман, Зак** — [zachleat.com](http://www.zachleat.com/web/), [@zachleat](http://twitter.com/zachleat)
 
+### Lewis, Paul
+
+**Лью́ис, Пол** — [aerotwist.com](https://aerotwist.com/), [@aerotwist](https://twitter.com/aerotwist)
+
 ### Lie, Håkon Wium
 
 **Ли, Хокон Виум** — [people.opera.com/howcome](http://people.opera.com/howcome/)
