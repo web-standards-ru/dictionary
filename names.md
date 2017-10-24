@@ -1,6 +1,6 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) F [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
+Оглавление: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
 
 ## A
 
@@ -139,7 +139,6 @@
 **Ю́дис, Ште́фан** — [stefanjudis.de](https://www.stefanjudis.de/), [@stefanjudis](https://twitter.com/stefanjudis)
 
 ## K
-
 
 ### Kadlec, Tim
 
