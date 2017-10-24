@@ -16,6 +16,10 @@
 
 **Э́ндрю, Рэйчел** — [webdesignerdepot.com](http://www.webdesignerdepot.com), [@rachelandrew](https://twitter.com/rachelandrew)
 
+### Archibald, Jake
+
+**А́рчибальд, Джейк** — [jakearchibald.com](https://jakearchibald.com), [@jaffathecake](https://twitter.com/jaffathecake)
+
 ## B
 
 ### Bynens, Mathias
