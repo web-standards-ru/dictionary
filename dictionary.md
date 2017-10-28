@@ -282,6 +282,10 @@
 - script-supporting content — **скриптовое содержимое**
 - grouping content — **группирующее содержимое**
 
+### continuous integration
+
+**непрерывная интеграция**
+
 ### cross-browser
 
 **кроссбра́узерный,** работающий во всех браузерах, слитно.
