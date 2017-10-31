@@ -1,6 +1,6 @@
 # Словарь терминов Git и GitHub
 
-Оглавление: A [B](#b) [C](#c) D E [F](#f) [G](#g) H I J K L [M](#m) N [O](#o) [P](#p) Q [R](#r) S T [U](#u) V W X Y Z
+Оглавление: A [B](#b) [C](#c) D E [F](#f) [G](#g) H [I](#i) J K L [M](#m) N [O](#o) [P](#p) Q [R](#r) S T [U](#u) V W X Y Z
 
 ## B
 
