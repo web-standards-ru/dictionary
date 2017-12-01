@@ -70,7 +70,7 @@
 
 ### Everts, Tammy
 
-**Эвартс, Тэмми** – [tammyeverts.wordpress.com/](https://tammyeverts.wordpress.com/), [@tameverts](https://twitter.com/tameverts)
+**Э́вартс, Тэ́мми** – [tammyeverts.wordpress.com/](https://tammyeverts.wordpress.com/), [@tameverts](https://twitter.com/tameverts)
 
 ## F
 
