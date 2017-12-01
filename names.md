@@ -68,6 +68,10 @@
 
 **Э́темад, Э́лика** — [fantasai.inkedblade.net](http://fantasai.inkedblade.net/), [@fantasai](https://twitter.com/fantasai)
 
+### Everts, Tammy
+
+**Эвартс, Тэмми** – [tammyeverts.wordpress.com/](https://tammyeverts.wordpress.com/), [@tameverts](https://twitter.com/tameverts)
+
 ## F
 
 ### Frain, Ben
