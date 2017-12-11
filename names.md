@@ -290,7 +290,7 @@
 
 ### Verou, Lea
 
-**Веру́, Лиа** — [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
+**Веру́, Лия** — [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
 
 ### Verschelde, Florens
 
