@@ -1,6 +1,6 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) F [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X Y [Z](#z)
+Оглавление: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X [Y](#y) [Z](#z)
 
 ## A
 
@@ -15,6 +15,10 @@
 ### Andrew, Rachel
 
 **Э́ндрю, Рэйчел** — [webdesignerdepot.com](http://www.webdesignerdepot.com), [@rachelandrew](https://twitter.com/rachelandrew)
+
+### Archibald, Jake
+
+**А́рчибальд, Джейк** — [jakearchibald.com](https://jakearchibald.com), [@jaffathecake](https://twitter.com/jaffathecake)
 
 ## B
 
@@ -63,6 +67,20 @@
 ### Etemad, Elika J.
 
 **Э́темад, Э́лика** — [fantasai.inkedblade.net](http://fantasai.inkedblade.net/), [@fantasai](https://twitter.com/fantasai)
+
+### Everts, Tammy
+
+**Э́вартс, Тэ́мми** – [tammyeverts.wordpress.com/](https://tammyeverts.wordpress.com/), [@tameverts](https://twitter.com/tameverts)
+
+## F
+
+### Frain, Ben
+
+**Фрейн, Бен** — [benfrain.com](https://benfrain.com), [@benfrain](https://twitter.com/benfrain)
+
+### Frost, Brad
+
+**Фрост, Брэд** — [bradfrost.com](http://bradfrost.com), [@brad_frost](https://twitter.com/brad_frost)
 
 ## G
 
@@ -130,6 +148,10 @@
 
 ## K
 
+### Kadlec, Tim
+
+**Ка́длек, Тим** — [timkadlec.com](https://timkadlec.com/), [@tkadlec](https://twitter.com/tkadlec)
+
 ### Kalbag, Laura
 
 **Ка́лбэг, Лора** — [laurakalbag.com](https://laurakalbag.com/), [@laurakalbag](https://twitter.com/laurakalbag)
@@ -159,6 +181,10 @@
 ### Leatherman, Zach
 
 **Ле́зерман, Зак** — [zachleat.com](http://www.zachleat.com/web/), [@zachleat](http://twitter.com/zachleat)
+
+### Lewis, Paul
+
+**Лью́ис, Пол** — [aerotwist.com](https://aerotwist.com/), [@aerotwist](https://twitter.com/aerotwist)
 
 ### Lie, Håkon Wium
 
@@ -228,6 +254,10 @@
 
 ## S
 
+### Sharp, Remy
+
+**Шарп, Реми** — [remysharp.com](https://remysharp.com/), [@rem](https://twitter.com/rem)
+
 ### Shea, Dave
 
 **Шей, Дейв** — [mezzoblue.com](http://www.mezzoblue.com/), [@mezzoblue](https://twitter.com/mezzoblue)
@@ -252,11 +282,15 @@
 
 **Со́рхус, Си́ндре** — [sindresorhus.com](http://sindresorhus.com), [@sindresorhus](https://twitter.com/sindresorhus)
 
+### Snook, Jonathan
+
+**Снук, Джо́натан** — [snook.ca](https://snook.ca), [@snookca](https://twitter.com/snookca)
+
 ## V
 
 ### Verou, Lea
 
-**Веру́, Лиа** — [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
+**Веру́, Лия** — [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
 
 ### Verschelde, Florens
 
@@ -275,6 +309,12 @@
 ### Wroblewski, Luke
 
 **Вробле́вски, Люк** — [lukew.com](http://www.lukew.com), [@lukew](https://twitter.com/lukew)
+
+## Y
+
+### You, Evan
+
+**Ю, Эван** — [evanyou.me](http://evanyou.me/), [@youyuxi](https://twitter.com/youyuxi)
 
 ## Z
 
