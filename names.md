@@ -68,6 +68,10 @@
 
 **Э́темад, Э́лика** — [fantasai.inkedblade.net](http://fantasai.inkedblade.net/), [@fantasai](https://twitter.com/fantasai)
 
+### Everts, Tammy
+
+**Э́вартс, Тэ́мми** – [tammyeverts.wordpress.com/](https://tammyeverts.wordpress.com/), [@tameverts](https://twitter.com/tameverts)
+
 ## F
 
 ### Frain, Ben
@@ -286,7 +290,7 @@
 
 ### Verou, Lea
 
-**Веру́, Лиа** — [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
+**Веру́, Лия** — [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
 
 ### Verschelde, Florens
 
