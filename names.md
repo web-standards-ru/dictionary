@@ -108,7 +108,7 @@
 
 ### Hidayat, Ariya
 
-**Хидая́т, Ари́я** — [ariya.ofilabs.com](http://ariya.ofilabs.com/), [@ariyahidayat](http://twitter.com/ariyahidayat)
+**Хидая́т, Ари́я** — [ariya.io](https://ariya.io/), [@ariyahidayat](http://twitter.com/ariyahidayat)
 
 ### Hickson, Ian
 
@@ -182,6 +182,10 @@
 
 **Ле́зерман, Зак** — [zachleat.com](http://www.zachleat.com/web/), [@zachleat](http://twitter.com/zachleat)
 
+### Lesiński, Kornel
+
+**Лесински, Корнель** — [kornel.ski](https://kornel.ski/), [@kornelski](https://twitter.com/kornelski)
+
 ### Lewis, Paul
 
 **Лью́ис, Пол** — [aerotwist.com](https://aerotwist.com/), [@aerotwist](https://twitter.com/aerotwist)
@@ -195,6 +199,10 @@
 ### McCathieNevile, Charles
 
 **МакКетиНевил, Чарльз** — [w3.org/People/Charles](http://www.w3.org/People/Charles/), [@chaals](https://twitter.com/chaals)
+
+### Meenan, Patrick
+
+**Минан, Патрик** — [@patmeenan](https://twitter.com/patmeenan)
 
 ### Meyer, Eric
 
@@ -229,6 +237,10 @@
 ### Pickering, Heydon
 
 **Пи́керинг, Хейдон** — [heydonworks.com](http://heydonworks.com), [@heydonworks](https://twitter.com/heydonworks)
+
+### Portis, Eric
+
+**Портис, Эрик** — [ericportis.com](http://ericportis.com/), [@etportis](https://twitter.com/etportis)
 
 ## R
 
@@ -297,6 +309,10 @@
 **Верше́льд, Флоран** — [fvsch.com](https://fvsch.com/), [@fvsch](https://twitter.com/fvsch)
 
 ## W
+
+### Wagner, Jeremy
+
+**Вагнер, Джереми** — [jeremywagner.me](https://jeremywagner.me/), [@malchata](https://twitter.com/malchata)
 
 ### Watson, Léonie
 
