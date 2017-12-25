@@ -196,6 +196,10 @@
 
 **МакКетиНевил, Чарльз** — [w3.org/People/Charles](http://www.w3.org/People/Charles/), [@chaals](https://twitter.com/chaals)
 
+### Meenan, Patrick
+
+**Минан, Патрик** — [@patmeenan](https://twitter.com/patmeenan)
+
 ### Meyer, Eric
 
 **Мейер, Эрик** — [meyerweb.com](http://meyerweb.com), [@meyerweb](https://twitter.com/meyerweb)
