@@ -234,6 +234,10 @@
 
 **Пи́керинг, Хейдон** — [heydonworks.com](http://heydonworks.com), [@heydonworks](https://twitter.com/heydonworks)
 
+### Portis, Eric
+
+**Портис, Эрик** — [ericportis.com](http://ericportis.com/), [@etportis](https://twitter.com/etportis)
+
 ## R
 
 ### Rauschmayer, Axel
