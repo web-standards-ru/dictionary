@@ -298,6 +298,10 @@
 
 ## W
 
+### Wagner, Jeremy
+
+**Вагнер, Джереми** — [jeremywagner.me](https://jeremywagner.me/), [@malchata](https://twitter.com/malchata)
+
 ### Watson, Léonie
 
 **Уотсон, Лео́ни** — [LJWatson.co.uk](http://LJWatson.co.uk), [@leoniewatson](https://twitter.com/leoniewatson)
