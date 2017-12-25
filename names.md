@@ -108,7 +108,7 @@
 
 ### Hidayat, Ariya
 
-**Хидая́т, Ари́я** — [ariya.ofilabs.com](http://ariya.ofilabs.com/), [@ariyahidayat](http://twitter.com/ariyahidayat)
+**Хидая́т, Ари́я** — [ariya.io](https://ariya.io/), [@ariyahidayat](http://twitter.com/ariyahidayat)
 
 ### Hickson, Ian
 
