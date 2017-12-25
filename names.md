@@ -182,7 +182,7 @@
 
 **Ле́зерман, Зак** — [zachleat.com](http://www.zachleat.com/web/), [@zachleat](http://twitter.com/zachleat)
 
-### Lesi&#x144;ski, Kornel
+### Lesiński, Kornel
 
 **Лесински, Корнель** — [kornel.ski](https://kornel.ski/), [@kornelski](https://twitter.com/kornelski)
 
