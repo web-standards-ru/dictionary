@@ -1,6 +1,6 @@
 # Словарь имен фронтендеров-авторов статей
 
-Оглавление: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X [Y](#y) [Z](#z)
+Оглавление: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) Q [R](#r) [S](#s) [T](#t) U [V](#v) [W](#w) X [Y](#y) [Z](#z)
 
 ## A
 
@@ -297,6 +297,12 @@
 ### Snook, Jonathan
 
 **Снук, Джо́натан** — [snook.ca](https://snook.ca), [@snookca](https://twitter.com/snookca)
+
+## T
+
+### Atkins, Tab
+
+**А́ткинс, Таб** — [@tabatkins](https://twitter.com/tabatkins)
 
 ## V
 
