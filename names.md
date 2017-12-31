@@ -20,6 +20,10 @@
 
 **А́рчибальд, Джейк** — [jakearchibald.com](https://jakearchibald.com), [@jaffathecake](https://twitter.com/jaffathecake)
 
+### Atkins, Tab
+
+**А́ткинс, Таб** — [@tabatkins](https://twitter.com/tabatkins)
+
 ## B
 
 ### Bynens, Mathias
