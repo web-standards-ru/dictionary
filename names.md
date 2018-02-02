@@ -64,7 +64,7 @@
 
 ### Drasner, Sarah
 
-**Дрэснер, Сара** — [sarahdrasnerdesign.com](http://sarahdrasnerdesign.com/), [@sarah_edo](https://twitter.com/sarah_edo)
+**Драснер, Сара** — [sarahdrasnerdesign.com](http://sarahdrasnerdesign.com/), [@sarah_edo](https://twitter.com/sarah_edo)
 
 ## E
 
