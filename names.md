@@ -4,6 +4,10 @@
 
 ## A
 
+### Abramov, Dan
+
+**Абрамов, Дэн** — [@dan_abramov](https://twitter.com/dan_abramov)
+
 ### Aderinokun, Ire
 
 **Аде́ринокун, Ирé** — [bitsofco.de](http://bitsofco.de/), [@ireaderinokun](https://twitter.com/ireaderinokun)
