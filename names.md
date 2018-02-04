@@ -48,6 +48,10 @@
 
 **Челик, Тантек** — [tantek.com](https://tantek.com), [@t](https://twitter.com/t)
 
+### Fritz, Chris
+
+**Фриц, Крис** - [@chrisvfritz](https://twitter.com/chrisvfritz)
+
 ## D
 
 ### Denicola, Domenic
@@ -149,6 +153,10 @@
 ### Judis, Stefan
 
 **Ю́дис, Ште́фан** — [stefanjudis.de](https://www.stefanjudis.de/), [@stefanjudis](https://twitter.com/stefanjudis)
+
+### Jahr, Adam
+
+**Яр, Адам** - [@AdamJahr](https://twitter.com/AdamJahr)
 
 ## K
 
