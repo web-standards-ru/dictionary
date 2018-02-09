@@ -350,6 +350,10 @@
 
 ## Z
 
+### Zehe, Marco
+
+**Цихе, Марко** — [marcozehe.de](https://www.marcozehe.de/), [@MarcoInEnglish](https://twitter.com/MarcoInEnglish)
+
 ### Zeldman, Jeffrey
 
 **Зельдман, Джеффри** — [zeldman.com](http://www.zeldman.com/), [@zeldman](https://twitter.com/zeldman)
