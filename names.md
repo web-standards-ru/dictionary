@@ -318,6 +318,10 @@
 
 **Снук, Джо́натан** — [snook.ca](https://snook.ca), [@snookca](https://twitter.com/snookca)
 
+### Sutton, Marcy
+
+**Сáттон, Марси** — [marcysutton.com](https://marcysutton.com/), [@marcysutton](https://twitter.com/marcysutton)
+
 ## V
 
 ### Verou, Lea
