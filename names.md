@@ -280,6 +280,10 @@
 
 **Руже́, Поль** — [paulrouget.com](http://paulrouget.com/)
 
+### Roselli, Adrian
+
+**Розéлли, Адриан** — [adrianroselli.com](http://adrianroselli.com/), [@aardrian](https://twitter.com/aardrian)
+
 ## S
 
 ### Sharp, Remy
