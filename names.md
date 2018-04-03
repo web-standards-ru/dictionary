@@ -4,6 +4,10 @@
 
 ## A
 
+### Abdalla, Safia
+
+**Абдалла, Са́фия** — [safia.rocks](https://safia.rocks/), [@captainsafia](https://twitter.com/captainsafia)
+
 ### Abramov, Dan
 
 **Абрамов, Дэн** — [@dan_abramov](https://twitter.com/dan_abramov)
