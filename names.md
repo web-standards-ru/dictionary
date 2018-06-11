@@ -360,6 +360,10 @@
 
 **Ю, Эван** — [evanyou.me](http://evanyou.me/), [@youyuxi](https://twitter.com/youyuxi)
 
+### Yerburgh, Edd
+
+**Йербург, Эдд** — [eddyerburgh.me](https://eddyerburgh.me/), [@eddyerburgh](ttps://twitter.com/eddyerburgh)
+
 ## Z
 
 ### Zehe, Marco
