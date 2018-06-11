@@ -362,7 +362,7 @@
 
 ### Yerburgh, Edd
 
-**Йербург, Эдд** — [eddyerburgh.me](https://eddyerburgh.me/), [@eddyerburgh](ttps://twitter.com/eddyerburgh)
+**Йербург, Эдд** — [eddyerburgh.me](https://eddyerburgh.me/), [@eddyerburgh](https://twitter.com/eddyerburgh)
 
 ## Z
 
