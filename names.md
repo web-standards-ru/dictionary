@@ -272,6 +272,10 @@
 
 **Ре́зиг, Джон** — [ejohn.org](http://ejohn.org/), [@jeresig](https://twitter.com/jeresig)
 
+### Ristovski, Kitze
+
+**Ристовски, Кице** — [kitze.io](https://kitze.io/), [@thekitze](https://twitter.com/thekitze)
+
 ### Roberts, Harry
 
 **Робертс, Гарри** — [csswizardry.com](http://csswizardry.com), [@csswizardry](https://twitter.com/csswizardry)
