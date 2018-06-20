@@ -370,6 +370,10 @@
 
 ## Z
 
+### Zakas, Nicholas
+
+**Закас, Николас** — [nczonline.net](https://www.nczonline.net/), [@slicknet](https://twitter.com/slicknet)
+
 ### Zehe, Marco
 
 **Цихе, Марко** — [marcozehe.de](https://www.marcozehe.de/), [@MarcoInEnglish](https://twitter.com/MarcoInEnglish)
