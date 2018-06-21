@@ -188,6 +188,10 @@
 
 **Кох, Питер-Пол (ППК)** — [quirksmode.org](http://quirksmode.org/), [@ppk](https://twitter.com/ppk)
 
+### Koppers, Tobias
+
+**Копперс, Тобиас** — [@wsokra](https://twitter.com/wsokra)
+
 ### Kravets, Una
 
 **Кравец, Юна** — [una.im](http://una.im/), [@una](https://twitter.com/una)
