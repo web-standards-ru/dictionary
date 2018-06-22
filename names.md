@@ -336,6 +336,10 @@
 
 ## V
 
+### Vepsäläinen, Juho
+
+**Вепшаляйнен, Юхо** — [survivejs.com](https://survivejs.com), [@bebraw](https://twitter.com/bebraw)
+
 ### Verou, Lea
 
 **Веру́, Лия** — [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
