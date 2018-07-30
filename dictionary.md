@@ -866,17 +866,17 @@
 
 ### progressive web metrics
 
-**прогрессивные веб-метрики,** включающие в себя набор метрик характеризующих быстродействие загрузки приложения
+**прогрессивные веб-метрики,** включающие в себя набор метрик, характеризующих быстродействие загрузки приложения
 
-- first paint - **первая отрисовка**
-- first contentful paint - **первая существенная отрисовка**
-- first meaningful paint - **первая значимая отрисовка**
-- visually ready - **визуальная готовность**
-- visually complete - **визуальная завершённость**
-- first interactive - **первая интерактивность**
-- estimated input latency - **ожидаемая задержка ввода**
-- time to first interactive - **время до первой интерактивности**
-- time to first consistently interactive - **время до начала стабильной интерактивности**
+- first paint — **первая отрисовка**
+- first contentful paint — **первая существенная отрисовка**
+- first meaningful paint — **первая значимая отрисовка**
+- visually ready — **визуальная готовность**
+- visually complete — **визуальная завершённость**
+- first interactive — **первая интерактивность**
+- estimated input latency — **ожидаемая задержка ввода**
+- time to first interactive — **время до первой интерактивности**
+- time to first consistently interactive — **время до начала стабильной интерактивности**
 
 ### prolyfill
 
