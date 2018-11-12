@@ -56,8 +56,7 @@
 
 ### merge request
 
-**мёржреквест,** синоним [пулреквест](#pull-request).
-
+**мёржреквест,** синоним [пулреквеста](#pull-request), используется [в GitLab](https://docs.gitlab.com/ee/user/project/merge_requests/).
 
 ## O
 
