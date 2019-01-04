@@ -18,7 +18,7 @@
 
 ### Ahlin, Tobias
 
-**А́лин, То́биас** — [tobiasahlin.com](//tobiasahlin.com/), [@tobiasahlin](//twitter.com/tobiasahlin)
+**А́лин, То́биас** — [tobiasahlin.com](http://tobiasahlin.com/), [@tobiasahlin](//twitter.com/tobiasahlin)
 
 ### Andrew, Rachel
 
@@ -42,7 +42,7 @@
 
 ### Cederholm, Dan
 
-**Се́дерхольм, Дэн** — [simplebits.com](//simplebits.com/), [@simplebits](//twitter.com/simplebits)
+**Се́дерхольм, Дэн** — [simplebits.com](http://simplebits.com/), [@simplebits](//twitter.com/simplebits)
 
 ### Chen, Hui Jing
 
@@ -82,7 +82,7 @@
 
 ### Etemad, Elika J.
 
-**Э́темад, Э́лика** — [fantasai.inkedblade.net](//fantasai.inkedblade.net/), [@fantasai](//twitter.com/fantasai)
+**Э́темад, Э́лика** — [fantasai.inkedblade.net](http://fantasai.inkedblade.net/), [@fantasai](//twitter.com/fantasai)
 
 ### Everts, Tammy
 
@@ -96,13 +96,13 @@
 
 ### Frost, Brad
 
-**Фрост, Брэд** — [bradfrost.com](//bradfrost.com), [@brad_frost](//twitter.com/brad_frost)
+**Фрост, Брэд** — [bradfrost.com](http://bradfrost.com), [@brad_frost](//twitter.com/brad_frost)
 
 ## G
 
 ### Gallagher, Nicolas
 
-**Галахер, Николас** — [nicolasgallagher.com](//nicolasgallagher.com), [@necolas](//twitter.com/necolas)
+**Галахер, Николас** — [nicolasgallagher.com](http://nicolasgallagher.com), [@necolas](//twitter.com/necolas)
 
 ### Gillenwater, Zoe
 
@@ -132,7 +132,7 @@
 
 ### Holowaychuk, TJ
 
-**Головайчу́к, Ти Джей** — [www.tjholowaychuk.com](//www.tjholowaychuk.com/), [@tjholowaychuk](//twitter.com/tjholowaychuk)
+**Головайчу́к, Ти Джей** — [www.tjholowaychuk.com](http://www.tjholowaychuk.com/), [@tjholowaychuk](//twitter.com/tjholowaychuk)
 
 ### Holzschlag, Molly
 
@@ -244,7 +244,7 @@
 
 ### Neal, Jonathan T.
 
-**Нил, Джонатан** — [www.jonathantneal.com](//www.jonathantneal.com), [@jon_neal](//twitter.com/jon_neal)
+**Нил, Джонатан** — [www.jonathantneal.com](http://www.jonathantneal.com), [@jon_neal](//twitter.com/jon_neal)
 
 ## O
 
@@ -274,7 +274,7 @@
 
 ### Rauschmayer, Axel
 
-**Раушмайер, Аксель** — [2ality.com](//2ality.com/), [@rauschma](//twitter.com/rauschma)
+**Раушмайер, Аксель** — [2ality.com](http://2ality.com/), [@rauschma](//twitter.com/rauschma)
 
 ### Resig, John
 
@@ -294,7 +294,7 @@
 
 ### Rouget, Paul
 
-**Руже́, Поль** — [paulrouget.com](//paulrouget.com/)
+**Руже́, Поль** — [paulrouget.com](http://paulrouget.com/)
 
 ### Roselli, Adrian
 
@@ -308,7 +308,7 @@
 
 ### Shea, Dave
 
-**Шей, Дейв** — [www.mezzoblue.com](//www.mezzoblue.com/), [@mezzoblue](//twitter.com/mezzoblue)
+**Шей, Дейв** — [www.mezzoblue.com](http://www.mezzoblue.com/), [@mezzoblue](//twitter.com/mezzoblue)
 
 ### Simpson, Kyle
 
@@ -360,11 +360,11 @@
 
 ### Watson, Léonie
 
-**Уотсон, Лео́ни** — [ljwatson.uk](//ljwatson.uk), [@leoniewatson](//twitter.com/leoniewatson)
+**Уотсон, Лео́ни** — [ljwatson.uk](http://ljwatson.uk), [@leoniewatson](//twitter.com/leoniewatson)
 
 ### Weyl, Estelle
 
-**Вайл, Эстель** — [www.standardista.com](//www.standardista.com/), [@standardista](//twitter.com/standardista)
+**Вайл, Эстель** — [www.standardista.com](http://www.standardista.com/), [@standardista](//twitter.com/standardista)
 
 ### Wroblewski, Luke
 
