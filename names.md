@@ -268,6 +268,10 @@
 
 ## R
 
+### Rascia, Tania
+
+**Раща, Таня** — [www.taniarascia.com](https://www.taniarascia.com/), [@taniarascia](https://twitter.com/taniarascia)
+
 ### Rauschmayer, Axel
 
 **Раушмайер, Аксель** — [www.2ality.com](http://www.2ality.com/), [@rauschma](https://twitter.com/rauschma)
