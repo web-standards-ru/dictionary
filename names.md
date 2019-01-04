@@ -270,7 +270,7 @@
 
 ### Rascia, Tania
 
-**Раща, Таня** — [www.taniarascia.com](https://www.taniarascia.com/), [@taniarascia](https://twitter.com/taniarascia)
+**Раша, Таня** — [www.taniarascia.com](https://www.taniarascia.com/), [@taniarascia](https://twitter.com/taniarascia)
 
 ### Rauschmayer, Axel
 
