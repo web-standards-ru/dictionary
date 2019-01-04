@@ -10,7 +10,7 @@
 
 ### Abramov, Dan
 
-**Абрамов, Дэн** — [@dan_abramov](//twitter.com/dan_abramov)
+**Абрамов, Дэн** — [overreacted.io](https://overreacted.io/), [@dan_abramov](//twitter.com/dan_abramov)
 
 ### Aderinokun, Ire
 
@@ -30,7 +30,7 @@
 
 ### Atkins, Tab
 
-**А́ткинс, Таб** — [@tabatkins](//twitter.com/tabatkins)
+**А́ткинс, Таб** — [www.xanthir.com](https://www.xanthir.com/), [@tabatkins](//twitter.com/tabatkins)
 
 ## B
 
@@ -86,7 +86,7 @@
 
 ### Everts, Tammy
 
-**Э́вартс, Тэ́мми** – [tammyeverts.wordpress.com/](//tammyeverts.wordpress.com/), [@tameverts](//twitter.com/tameverts)
+**Э́вартс, Тэ́мми** – [tammyeverts.wordpress.com](//tammyeverts.wordpress.com/), [@tameverts](//twitter.com/tameverts)
 
 ## F
 
