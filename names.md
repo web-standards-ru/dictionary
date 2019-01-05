@@ -22,7 +22,7 @@
 
 ### Andrew, Rachel
 
-**Э́ндрю, Рэйчел** — [webdesignerdepot.com](https://www.webdesignerdepot.com), [@rachelandrew](https://twitter.com/rachelandrew)
+**Э́ндрю, Рэйчел** — [rachelandrew.co.uk](https://rachelandrew.co.uk/), [@rachelandrew](https://twitter.com/rachelandrew)
 
 ### Archibald, Jake
 
@@ -136,7 +136,7 @@
 
 ### Holzschlag, Molly
 
-**Хо́льцшлаг, Молли** — [dev.opera.com/authors/molly-holzschlag/](https://dev.opera.com/authors/molly-holzschlag/), [@mholzschlag](https://twitter.com/mholzschlag)
+**Хо́льцшлаг, Молли** — [@mholzschlag](https://twitter.com/mholzschlag)
 
 ## I
 
