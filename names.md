@@ -10,11 +10,11 @@
 
 ### Abramov, Dan
 
-**Абрамов, Дэн** — [@dan_abramov](https://twitter.com/dan_abramov)
+**Абрамов, Дэн** — [overreacted.io](https://overreacted.io/), [@dan_abramov](https://twitter.com/dan_abramov)
 
 ### Aderinokun, Ire
 
-**Аде́ринокун, Ирé** — [bitsofco.de](http://bitsofco.de/), [@ireaderinokun](https://twitter.com/ireaderinokun)
+**Аде́ринокун, Ирé** — [bitsofco.de](https://bitsofco.de/), [@ireaderinokun](https://twitter.com/ireaderinokun)
 
 ### Ahlin, Tobias
 
@@ -22,7 +22,7 @@
 
 ### Andrew, Rachel
 
-**Э́ндрю, Рэйчел** — [webdesignerdepot.com](http://www.webdesignerdepot.com), [@rachelandrew](https://twitter.com/rachelandrew)
+**Э́ндрю, Рэйчел** — [rachelandrew.co.uk](https://rachelandrew.co.uk/), [@rachelandrew](https://twitter.com/rachelandrew)
 
 ### Archibald, Jake
 
@@ -30,7 +30,7 @@
 
 ### Atkins, Tab
 
-**А́ткинс, Таб** — [@tabatkins](https://twitter.com/tabatkins)
+**А́ткинс, Таб** — [xanthir.com](https://www.xanthir.com/), [@tabatkins](https://twitter.com/tabatkins)
 
 ## B
 
@@ -50,7 +50,7 @@
 
 ### Coyier, Chris
 
-**Койер, Крис** — [css-tricks.com](http://css-tricks.com), [@chriscoyier](https://twitter.com/chriscoyier)
+**Койер, Крис** — [css-tricks.com](https://css-tricks.com), [@chriscoyier](https://twitter.com/chriscoyier)
 
 ### Çelik, Tantek
 
@@ -68,11 +68,11 @@
 
 ### Devlin, Ian
 
-**Дэвлин, Иэн** — [iandevlin.com](http://www.iandevlin.com/), [@iandevlin](https://twitter.com/iandevlin)
+**Дэвлин, Иэн** — [iandevlin.com](https://www.iandevlin.com/), [@iandevlin](https://twitter.com/iandevlin)
 
 ### Drasner, Sarah
 
-**Дрэснер, Сара** — [sarahdrasnerdesign.com](http://sarahdrasnerdesign.com/), [@sarah_edo](https://twitter.com/sarah_edo)
+**Дрэснер, Сара** — [sarahdrasnerdesign.com](https://sarahdrasnerdesign.com/), [@sarah_edo](https://twitter.com/sarah_edo)
 
 ## E
 
@@ -86,7 +86,7 @@
 
 ### Everts, Tammy
 
-**Э́вартс, Тэ́мми** – [tammyeverts.wordpress.com/](https://tammyeverts.wordpress.com/), [@tameverts](https://twitter.com/tameverts)
+**Э́вартс, Тэ́мми** – [tammyeverts.wordpress.com](https://tammyeverts.wordpress.com/), [@tameverts](https://twitter.com/tameverts)
 
 ## F
 
@@ -106,11 +106,11 @@
 
 ### Gillenwater, Zoe
 
-**Гилленуотер, Зоуи** — [zomigi.com](http://zomigi.com/), [@zomigi](https://twitter.com/zomigi)
+**Гилленуотер, Зоуи** — [zomigi.com](https://zomigi.com/), [@zomigi](https://twitter.com/zomigi)
 
 ### Giraudel, Hugo
 
-**Жироде́ль, Хьюго** — [hugogiraudel.com](http://hugogiraudel.com/), [@HugoGiraudel](https://twitter.com/HugoGiraudel)
+**Жироде́ль, Хьюго** — [hugogiraudel.com](https://hugogiraudel.com/), [@HugoGiraudel](https://twitter.com/HugoGiraudel)
 
 ### Grigorik, Ilya
 
@@ -120,15 +120,15 @@
 
 ### Heilmann, Christian
 
-**Ха́йльман, Кри́стиан** — [christianheilmann.com](http://christianheilmann.com), [@codepo8](https://twitter.com/codepo8)
+**Ха́йльман, Кри́стиан** — [christianheilmann.com](https://christianheilmann.com), [@codepo8](https://twitter.com/codepo8)
 
 ### Hidayat, Ariya
 
-**Хидая́т, Ари́я** — [ariya.io](https://ariya.io/), [@ariyahidayat](http://twitter.com/ariyahidayat)
+**Хидая́т, Ари́я** — [ariya.io](https://ariya.io/), [@ariyahidayat](https://twitter.com/ariyahidayat)
 
 ### Hickson, Ian
 
-**Хиксон, Иэн** — [ian.hixie.ch](http://ian.hixie.ch/), [+IanHickson](https://plus.google.com/+IanHickson)
+**Хиксон, Иэн** — [ian.hixie.ch](https://ian.hixie.ch/), [+IanHickson](https://plus.google.com/+IanHickson)
 
 ### Holowaychuk, TJ
 
@@ -136,27 +136,27 @@
 
 ### Holzschlag, Molly
 
-**Хо́льцшлаг, Молли** — [molly.com](http://www.molly.com/), [@mollydotcom](https://twitter.com/mollydotcom)
+**Хо́льцшлаг, Молли** — [@mholzschlag](https://twitter.com/mholzschlag)
 
 ## I
 
 ### Ilic, Manoela (Mary Lou)
 
-**Илик, Маноэла (Мэри Лу)** — [tympanus.net](http://tympanus.net/codrops/author/crnacura/), [@crnacura](https://twitter.com/crnacura)
+**Илик, Маноэла (Мэри Лу)** — [tympanus.net](https://tympanus.net/codrops/author/crnacura/), [@crnacura](https://twitter.com/crnacura)
 
 ### Irish, Paul
 
-**Айриш, Пол** — [paulirish.com](http://www.paulirish.com/), [@paul_irish](https://twitter.com/paul_irish)
+**Айриш, Пол** — [paulirish.com](https://www.paulirish.com/), [@paul_irish](https://twitter.com/paul_irish)
 
 ## J
 
 ### Johansson, Roger
 
-**Йо́ханссон, Роджер** —  [456bereastreet.com](http://www.456bereastreet.com), [@rogerjohansson](https://twitter.com/rogerjohansson)
+**Йо́ханссон, Роджер** —  [456bereastreet.com](https://www.456bereastreet.com), [@rogerjohansson](https://twitter.com/rogerjohansson)
 
 ### Joreteg, Henrik
 
-**Йортег, Хенрик** — [joreteg.com](http://joreteg.com/), [@henrikjoreteg](https://twitter.com/henrikjoreteg)
+**Йортег, Хенрик** — [joreteg.com](https://joreteg.com/), [@henrikjoreteg](https://twitter.com/henrikjoreteg)
 
 ### Judis, Stefan
 
@@ -182,11 +182,11 @@
 
 ### Koblentz, Thierry
 
-**Кобленц, Тьерри** — [cssmojo.com](http://www.cssmojo.com/), [@thierrykoblentz](https://twitter.com/thierrykoblentz)
+**Кобленц, Тьерри**
 
 ### Koch, Peter-Paul (PPK)
 
-**Кох, Питер-Пол (ППК)** — [quirksmode.org](http://quirksmode.org/), [@ppk](https://twitter.com/ppk)
+**Кох, Питер-Пол (ППК)** — [quirksmode.org](https://quirksmode.org/), [@ppk](https://twitter.com/ppk)
 
 ### Koppers, Tobias
 
@@ -194,17 +194,17 @@
 
 ### Kravets, Una
 
-**Кравец, Юна** — [una.im](http://una.im/), [@una](https://twitter.com/una)
+**Кравец, Юна** — [una.im](https://una.im/), [@una](https://twitter.com/una)
 
 ## L
 
 ### Lawson, Bruce
 
-**Ло́усон, Брюс** — [brucelawson.co.uk](http://www.brucelawson.co.uk), [@brucel](https://twitter.com/brucel)
+**Ло́усон, Брюс** — [brucelawson.co.uk](https://www.brucelawson.co.uk), [@brucel](https://twitter.com/brucel)
 
 ### Leatherman, Zach
 
-**Ле́зерман, Зак** — [zachleat.com](http://www.zachleat.com/web/), [@zachleat](http://twitter.com/zachleat)
+**Ле́зерман, Зак** — [zachleat.com](https://www.zachleat.com/web/), [@zachleat](https://twitter.com/zachleat)
 
 ### Lesiński, Kornel
 
@@ -216,13 +216,13 @@
 
 ### Lie, Håkon Wium
 
-**Ли, Хокон Виум** — [people.opera.com/howcome](http://people.opera.com/howcome/)
+**Ли, Хокон Виум** — [wiumlie.no/en](https://www.wiumlie.no/en), [@wiumlie](https://twitter.com/wiumlie)
 
 ## M
 
 ### McCathieNevile, Charles
 
-**МакКетиНевил, Чарльз** — [w3.org/People/Charles](http://www.w3.org/People/Charles/), [@chaals](https://twitter.com/chaals)
+**МакКетиНевил, Чарльз** — [w3.org/People/Charles](https://www.w3.org/People/Charles/), [@chaals](https://twitter.com/chaals)
 
 ### Meenan, Patrick
 
@@ -230,15 +230,15 @@
 
 ### Meyer, Eric
 
-**Мейер, Эрик** — [meyerweb.com](http://meyerweb.com), [@meyerweb](https://twitter.com/meyerweb)
+**Мейер, Эрик** — [meyerweb.com](https://meyerweb.com), [@meyerweb](https://twitter.com/meyerweb)
 
 ### Meurer, Benedikt
 
-**Мо́йрер, Бенеди́кт** — [benediktmeurer.de](http://benediktmeurer.de), [@bmeurer](https://twitter.com/bmeurer)
+**Мо́йрер, Бенеди́кт** — [benediktmeurer.de](https://benediktmeurer.de), [@bmeurer](https://twitter.com/bmeurer)
 
 ### Manor, Elijah
 
-**Мэнор, Элайджа** — [elijahmanor.com](http://elijahmanor.com), [@elijahmanor](https://twitter.com/elijahmanor)
+**Мэнор, Элайджа** — [elijahmanor.com](https://elijahmanor.com), [@elijahmanor](https://twitter.com/elijahmanor)
 
 ## N
 
@@ -250,35 +250,35 @@
 
 ### Oliveira, Vincent de
 
-**Оливейра, Венсан Де** — [iamvdo.me](http://iamvdo.me/), [@iamvdo](https://twitter.com/iamvdo)
+**Оливейра, Венсан Де** — [iamvdo.me](https://iamvdo.me/), [@iamvdo](https://twitter.com/iamvdo)
 
 ### Osmani, Addy
 
-**Осма́ни, Эдди** — [addyosmani.com](http://addyosmani.com), [@addyosmani](https://twitter.com/addyosmani)
+**Осма́ни, Эдди** — [addyosmani.com](https://addyosmani.com), [@addyosmani](https://twitter.com/addyosmani)
 
 ## P
 
 ### Pickering, Heydon
 
-**Пи́керинг, Хейдон** — [heydonworks.com](http://heydonworks.com), [@heydonworks](https://twitter.com/heydonworks)
+**Пи́керинг, Хейдон** — [heydonworks.com](https://www.heydonworks.com), [@heydonworks](https://twitter.com/heydonworks)
 
 ### Portis, Eric
 
-**Портис, Эрик** — [ericportis.com](http://ericportis.com/), [@etportis](https://twitter.com/etportis)
+**Портис, Эрик** — [ericportis.com](https://ericportis.com/), [@etportis](https://twitter.com/etportis)
 
 ## R
 
 ### Rascia, Tania
 
-**Раша, Таня** — [www.taniarascia.com](https://www.taniarascia.com/), [@taniarascia](https://twitter.com/taniarascia)
+**Раша, Таня** — [taniarascia.com](https://www.taniarascia.com/), [@taniarascia](https://twitter.com/taniarascia)
 
 ### Rauschmayer, Axel
 
-**Раушмайер, Аксель** — [www.2ality.com](http://www.2ality.com/), [@rauschma](https://twitter.com/rauschma)
+**Раушмайер, Аксель** — [2ality.com](http://2ality.com/), [@rauschma](https://twitter.com/rauschma)
 
 ### Resig, John
 
-**Ре́зиг, Джон** — [ejohn.org](http://ejohn.org/), [@jeresig](https://twitter.com/jeresig)
+**Ре́зиг, Джон** — [johnresig.com](https://johnresig.com/), [@jeresig](https://twitter.com/jeresig)
 
 ### Ristovski, Kitze
 
@@ -286,11 +286,11 @@
 
 ### Roberts, Harry
 
-**Робертс, Гарри** — [csswizardry.com](http://csswizardry.com), [@csswizardry](https://twitter.com/csswizardry)
+**Робертс, Гарри** — [csswizardry.com](https://csswizardry.com), [@csswizardry](https://twitter.com/csswizardry)
 
 ### Rocha, Zeno
 
-**Роча, Зено** — [zenorocha.com](http://zenorocha.com/), [@zenorocha](https://twitter.com/zenorocha)
+**Роча, Зено** — [zenorocha.com](https://zenorocha.com/), [@zenorocha](https://twitter.com/zenorocha)
 
 ### Rouget, Paul
 
@@ -298,7 +298,7 @@
 
 ### Roselli, Adrian
 
-**Розéлли, Адриан** — [adrianroselli.com](http://adrianroselli.com/), [@aardrian](https://twitter.com/aardrian)
+**Розéлли, Адриан** — [adrianroselli.com](https://adrianroselli.com/), [@aardrian](https://twitter.com/aardrian)
 
 ## S
 
@@ -312,23 +312,23 @@
 
 ### Simpson, Kyle
 
-**Симпсон, Кайл** — [getify.me](http://getify.me/), [@getify](https://twitter.com/getify)
+**Симпсон, Кайл** — [me.getify.com](https://me.getify.com/), [@getify](https://twitter.com/getify)
 
 ### Staltz, André
 
-**Стальц, Андре́** — [staltz.com](https://staltz.com/), [@andrestaltz](https://twitter.com/andrestaltz)
+**Стальц, Андре́** — [staltz.com](https://staltz.com/), [@andrestaltz](https://twitter.com/andrestaltz)
 
 ### Stoiber, Max
 
-**Штойбер, Макс** — [mxstbr.com](http://mxstbr.com/), [@mxstbr](https://twitter.com/mxstbr)
+**Штойбер, Макс** — [mxstbr.com](https://mxstbr.com/), [@mxstbr](https://twitter.com/mxstbr)
 
 ### Soueidan, Sara
 
-**Суайда́н, Сара** — [sarasoueidan.com](http://sarasoueidan.com), [@SaraSoueidan](https://twitter.com/SaraSoueidan)
+**Суайда́н, Сара** — [sarasoueidan.com](https://www.sarasoueidan.com), [@SaraSoueidan](https://twitter.com/SaraSoueidan)
 
 ### Sorhus, Sindre
 
-**Со́рхус, Си́ндре** — [sindresorhus.com](http://sindresorhus.com), [@sindresorhus](https://twitter.com/sindresorhus)
+**Со́рхус, Си́ндре** — [sindresorhus.com](https://sindresorhus.com), [@sindresorhus](https://twitter.com/sindresorhus)
 
 ### Snook, Jonathan
 
@@ -346,7 +346,7 @@
 
 ### Verou, Lea
 
-**Веру́, Лия** — [lea.verou.me](http://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
+**Веру́, Лия** — [lea.verou.me](https://lea.verou.me), [@leaverou](https://twitter.com/leaverou)
 
 ### Verschelde, Florens
 
@@ -356,11 +356,11 @@
 
 ### Wagner, Jeremy
 
-**Вагнер, Джереми** — [jeremywagner.me](https://jeremywagner.me/), [@malchata](https://twitter.com/malchata)
+**Вагнер, Джереми** — [jeremy.codes](https://jeremy.codes/), [@malchata](https://twitter.com/malchata)
 
 ### Watson, Léonie
 
-**Уотсон, Лео́ни** — [LJWatson.co.uk](http://LJWatson.co.uk), [@leoniewatson](https://twitter.com/leoniewatson)
+**Уотсон, Лео́ни** — [ljwatson.uk](http://ljwatson.uk), [@leoniewatson](https://twitter.com/leoniewatson)
 
 ### Weyl, Estelle
 
@@ -368,13 +368,13 @@
 
 ### Wroblewski, Luke
 
-**Вробле́вски, Люк** — [lukew.com](http://www.lukew.com), [@lukew](https://twitter.com/lukew)
+**Вробле́вски, Люк** — [lukew.com](https://www.lukew.com), [@lukew](https://twitter.com/lukew)
 
 ## Y
 
 ### You, Evan
 
-**Ю, Эван** — [evanyou.me](http://evanyou.me/), [@youyuxi](https://twitter.com/youyuxi)
+**Ю, Эван** — [evanyou.me](https://evanyou.me/), [@youyuxi](https://twitter.com/youyuxi)
 
 ### Yerburgh, Edd
 
@@ -384,7 +384,7 @@
 
 ### Zakas, Nicholas
 
-**Закас, Николас** — [nczonline.net](https://www.nczonline.net/), [@slicknet](https://twitter.com/slicknet)
+**Закас, Николас** — [humanwhocodes.com](https://humanwhocodes.com/), [@slicknet](https://twitter.com/slicknet)
 
 ### Zehe, Marco
 
@@ -392,7 +392,7 @@
 
 ### Zeldman, Jeffrey
 
-**Зельдман, Джеффри** — [zeldman.com](http://www.zeldman.com/), [@zeldman](https://twitter.com/zeldman)
+**Зельдман, Джеффри** — [zeldman.com](https://www.zeldman.com/), [@zeldman](https://twitter.com/zeldman)
 
 ---
-[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редакторы [Вадим Макеев](http://pepelsbey.net) и [Ольга Алексашенко](http://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).
+[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редакторы [Вадим Макеев](https://pepelsbey.net) и [Ольга Алексашенко](https://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).
