@@ -310,6 +310,10 @@
 
 **Шей, Дейв** — [mezzoblue.com](http://www.mezzoblue.com/), [@mezzoblue](https://twitter.com/mezzoblue)
 
+### Shechter, Elad
+
+**Шехтер, Элад** — [@eladsc](https://twitter.com/eladsc)
+
 ### Simpson, Kyle
 
 **Симпсон, Кайл** — [me.getify.com](https://me.getify.com/), [@getify](https://twitter.com/getify)
