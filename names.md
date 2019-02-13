@@ -208,7 +208,7 @@
 
 ### Lesiński, Kornel
 
-**Лесински, Корнель** — [kornel.ski](https://kornel.ski/), [@kornelski](https://twitter.com/kornelski)
+**Лесиньский, Корнель** — [kornel.ski](https://kornel.ski/), [@kornelski](https://twitter.com/kornelski)
 
 ### Lewis, Paul
 
