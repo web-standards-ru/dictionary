@@ -34,6 +34,10 @@
 
 ## B
 
+### Baron, L. David
+
+**Барон, Давид** — [dbaron.org](https://dbaron.org), [@davidbaron](https://twitter.com/davidbaron)
+
 ### Bynens, Mathias
 
 **Байненс, Матиас** — [mathiasbynens.be](https://mathiasbynens.be/), [@mathias](https://twitter.com/mathias)
