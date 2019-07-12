@@ -270,6 +270,10 @@
 
 **Портис, Эрик** — [ericportis.com](https://ericportis.com/), [@etportis](https://twitter.com/etportis)
 
+### Roberts, Philip
+
+**Ро́бертс, Фи́лип** — [latentflip.com](http://latentflip.com/), [@philip_roberts](https://twitter.com/philip_roberts)
+
 ## R
 
 ### Rascia, Tania
