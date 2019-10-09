@@ -52,6 +52,10 @@
 
 **Чэнь, Хуэй Цзин** — [chenhuijing.com](https://www.chenhuijing.com/), [@hj_chen](https://twitter.com/hj_chen)
 
+### Clark, Andrew
+
+**Кларк, Э́ндрю** — [@acdlite](https://twitter.com/acdlite)
+
 ### Coyier, Chris
 
 **Койер, Крис** — [css-tricks.com](https://css-tricks.com), [@chriscoyier](https://twitter.com/chriscoyier)
