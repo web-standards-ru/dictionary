@@ -20,6 +20,10 @@
 
 **А́лин, То́биас** — [tobiasahlin.com](http://tobiasahlin.com/), [@tobiasahlin](https://twitter.com/tobiasahlin)
 
+### Alpert, Sophie
+
+**Алперт, Софи́** — [sophiebits.com](https://sophiebits.com), [@sophiebits](https://twitter.com/sophiebits)
+
 ### Andrew, Rachel
 
 **Э́ндрю, Рэйчел** — [rachelandrew.co.uk](https://rachelandrew.co.uk/), [@rachelandrew](https://twitter.com/rachelandrew)
