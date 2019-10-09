@@ -20,6 +20,10 @@
 
 **А́лин, То́биас** — [tobiasahlin.com](http://tobiasahlin.com/), [@tobiasahlin](https://twitter.com/tobiasahlin)
 
+### Alpert, Sophie
+
+**Алперт, Софи́** — [sophiebits.com](https://sophiebits.com), [@sophiebits](https://twitter.com/sophiebits)
+
 ### Andrew, Rachel
 
 **Э́ндрю, Рэйчел** — [rachelandrew.co.uk](https://rachelandrew.co.uk/), [@rachelandrew](https://twitter.com/rachelandrew)
@@ -51,6 +55,10 @@
 ### Chen, Hui Jing
 
 **Чэнь, Хуэй Цзин** — [chenhuijing.com](https://www.chenhuijing.com/), [@hj_chen](https://twitter.com/hj_chen)
+
+### Clark, Andrew
+
+**Кларк, Э́ндрю** — [@acdlite](https://twitter.com/acdlite)
 
 ### Coyier, Chris
 
@@ -351,6 +359,10 @@
 **Сáттон, Марси** — [marcysutton.com](https://marcysutton.com/), [@marcysutton](https://twitter.com/marcysutton)
 
 ## V
+
+### Vaughn, Brian
+
+**Вон, Бра́йан** — [briandavidvaughn.com](http://www.briandavidvaughn.com), [@brian_d_vaughn](https://twitter.com/brian_d_vaughn)
 
 ### Vepsäläinen, Juho
 
