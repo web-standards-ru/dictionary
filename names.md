@@ -352,6 +352,10 @@
 
 ## V
 
+### Vaughn, Brian
+
+**Вон, Бра́йан** — [briandavidvaughn.com](http://www.briandavidvaughn.com), [@brian_d_vaughn](https://twitter.com/brian_d_vaughn)
+
 ### Vepsäläinen, Juho
 
 **Вепшаляйнен, Юхо** — [survivejs.com](https://survivejs.com), [@bebraw](https://twitter.com/bebraw)
