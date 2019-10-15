@@ -134,6 +134,10 @@
 
 **Ха́йльман, Кри́стиан** — [christianheilmann.com](https://christianheilmann.com), [@codepo8](https://twitter.com/codepo8)
 
+### Herman, David
+
+**Херман, Дэвид** — [calculist.org](http://calculist.org/), [@littlecalculist](https://twitter.com/littlecalculist)
+
 ### Hidayat, Ariya
 
 **Хидая́т, Ари́я** — [ariya.io](https://ariya.io/), [@ariyahidayat](https://twitter.com/ariyahidayat)
