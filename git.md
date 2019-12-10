@@ -54,6 +54,10 @@
 
 **мёрж,** слияние изменений из одной ветки в другую ветку того же репозитория.
 
+### merge request
+
+**мёржреквест,** синоним [пулреквеста](#pull-request), используется [в GitLab](https://docs.gitlab.com/ee/user/project/merge_requests/).
+
 ## O
 
 ### origin
