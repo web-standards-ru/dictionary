@@ -497,24 +497,24 @@
 
 - font-weight — **насыщенность**
 
-	- font-weight:normal — **нормальная**
-	- font-weight:bold — **жирная** или **полужирная** (в типографской традиции)
-	- font-weight:bolder — **жирнее**
-	- font-weight:lighter — **светлее**
+	- font-weight: normal — **нормальная**
+	- font-weight: bold — **жирная** или **полужирная** (в типографской традиции)
+	- font-weight: bolder — **жирнее**
+	- font-weight: lighter — **светлее**
 
 - font-style — **стиль шрифта**
 
-	- font-style:normal — **прямой**
-	- font-style:italic — **курси́в**
-	- font-style:oblique — **наклонный**
+	- font-style: normal — **прямой**
+	- font-style: italic — **курси́в**
+	- font-style: oblique — **наклонный**
 
 - font-size — **размер шрифта, кегль**
 
 - font-family — **семейство шрифта, гарнитура**
 
-	- font-family:serif — **с засечками**
-	- font-family:sans-serif — **без засечек**
-	- font-family:monospace — **моноширинный**
+	- font-family: serif — **с засечками**
+	- font-family: sans-serif — **без засечек**
+	- font-family: monospace — **моноширинный**
 
 ### footer
 
