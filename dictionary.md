@@ -201,9 +201,9 @@
 
 **отмена обтекания,** CSS-свойство, запрещающее блоку обтекать предшествующие плавающие блоки.
 
-- clear:left — **отмена обтекания слева**
-- clear:right — **отмена обтекания справа**
-- clear:both — **отмена обтекания с обеих сторон**
+- clear: left — **отмена обтекания слева**
+- clear: right — **отмена обтекания справа**
+- clear: both — **отмена обтекания с обеих сторон**
 
 ### clearfix
 
@@ -356,12 +356,12 @@
 
 1. **вид,** css-свойство, определяющее тип отображения блока.
 
-	- display:none — **скрытый вид**
-	- display:block — **блочный вид**
-	- display:inline — **строчный вид**
-	- display:inline-block — **вид строчного блока**
-- display:flex — **вид флекс-контейнера** (см. [flexbox](#flexbox))
-- display:inline-flex — **вид строчного флекс-контейнера** (см. [flexbox](#flexbox))
+	- display: none — **скрытый вид**
+	- display: block — **блочный вид**
+	- display: inline — **строчный вид**
+	- display: inline-block — **вид строчного блока**
+- display: flex — **вид флекс-контейнера** (см. [flexbox](#flexbox))
+- display: inline-flex — **вид строчного флекс-контейнера** (см. [flexbox](#flexbox))
 
 2. **экран,** напр. _экран смартфона, разрешение экрана_.
 
@@ -900,11 +900,11 @@
 
 **позиционирование**
 
-- position:static — **статичное**
-- position:absolute — **абсолютное**
-- position:relative — **относительное**
-- position:fixed — **фиксированное**
-- position:sticky — **закреплённое**
+- position: static — **статичное**
+- position: absolute — **абсолютное**
+- position: relative — **относительное**
+- position: fixed — **фиксированное**
+- position: sticky — **закреплённое**
 
 ### preprocessor
 
@@ -1213,9 +1213,9 @@
 
 **выравнивание, вы́ключка,** ориентация строк текста в определённом направлении, либо равномерно по ширине блока.
 
-- text-align:left — **влево**
-- text-align:right — **вправо**
-- text-align:justify — **по ширине**
+- text-align: left — **влево**
+- text-align: right — **вправо**
+- text-align: justify — **по ширине**
 
 ### text-shadow
 
