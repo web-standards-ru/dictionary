@@ -52,6 +52,10 @@
 
 **Се́дерхольм, Дэн** — [simplebits.com](http://simplebits.com/), [@simplebits](https://twitter.com/simplebits)
 
+### Chen, Hui Jing
+
+**Чэнь, Хуэй Цзин** — [chenhuijing.com](https://www.chenhuijing.com/), [@hj_chen](https://twitter.com/hj_chen)
+
 ### Clark, Andrew
 
 **Кларк, Э́ндрю** — [@acdlite](https://twitter.com/acdlite)
@@ -125,10 +129,6 @@
 **Григо́рик, Илья** — [igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
 
 ## H
-
-### Hui Jing, Chen
-
-**Хуэй Цзин, Чэнь** — [chenhuijing.com](https://www.chenhuijing.com/), [@hj_chen](https://twitter.com/hj_chen)
 
 ### Heilmann, Christian
 
