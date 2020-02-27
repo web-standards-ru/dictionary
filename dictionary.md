@@ -417,10 +417,6 @@
 
 **движок,** напр. _Safari is based on WebKit engine — Сафари работает на движке Вебкит._
 
-### extrinsic
-
-**внешний** (см. [sizing](#sizing))
-
 ## F
 
 ### fallback
