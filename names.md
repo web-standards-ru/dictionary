@@ -120,6 +120,10 @@
 
 **Жироде́ль, Хьюго** — [hugogiraudel.com](https://hugogiraudel.com/), [@HugoGiraudel](https://twitter.com/HugoGiraudel)
 
+### Gomes, Sérgio
+
+**Гомес, Серджио** — [sgom.es](https://sgom.es), [@sergiomdgomes](https://twitter.com/sergiomdgomes)
+
 ### Grigorik, Ilya
 
 **Григо́рик, Илья** — [igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
