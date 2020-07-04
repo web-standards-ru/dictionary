@@ -122,7 +122,7 @@
 
 ### Gomes, Sérgio
 
-**Гомес, Серджио** — [sgom.es](https://sgom.es), [@sergiomdgomes](https://twitter.com/sergiomdgomes)
+**Гомеш, Сержиу** — [sgom.es](https://sgom.es), [@sergiomdgomes](https://twitter.com/sergiomdgomes)
 
 ### Grigorik, Ilya
 
