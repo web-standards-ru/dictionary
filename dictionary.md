@@ -879,14 +879,18 @@
 **прогрессивные веб-метрики,** набор метрик страницы, связанных с [быстродействием](#performance).
 
 - first paint — **первая отрисовка**
-- first contentful paint — **первая существенная отрисовка**
+- first contentful paint (FCP) — **первая существенная отрисовка**
 - first meaningful paint — **первая значимая отрисовка**
 - visually ready — **визуальная готовность**
 - visually complete — **визуальная завершённость**
 - first interactive — **первая интерактивность**
 - estimated input latency — **ожидаемая задержка ввода**
-- time to first interactive — **время до первой интерактивности**
-- time to first consistently interactive — **время до начала стабильной интерактивности**
+- time to interactive (TTI) — **время до первой интерактивности**
+- time to first consistently interactive — **время до стабильной интерактивности**
+- largest contentful paint (LCP) — **наибольшая существенная отрисовка**
+- cumulative layout shift (CLS) — **совокупное изменение раскладки**
+- total blocking time (TBT) — **суммарное время блокировки**
+- first input delay (FID) — **время отклика на первое взаимодействие**
 
 ### prolyfill
 
