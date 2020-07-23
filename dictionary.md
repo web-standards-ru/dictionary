@@ -889,8 +889,8 @@
 - time to first consistently interactive — **время до стабильной интерактивности**
 - largest contentful paint (LCP) — **наибольшая существенная отрисовка**
 - cumulative layout shift (CLS) — **совокупное изменение раскладки**
-- total blocking time (TBT) — **время полной блокировки основного потока**
-- first input delay (FID) — **время отклика на первую интерактивность**
+- total blocking time (TBT) — **суммарное время блокировки**
+- first input delay (FID) — **время отклика на первое взаимодействие**
 
 ### prolyfill
 
