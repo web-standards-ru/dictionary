@@ -56,6 +56,10 @@
 
 **Кларк, Э́ндрю** — [@acdlite](https://twitter.com/acdlite)
 
+### Comeau, Josh
+
+**Камю, Джош** — [joshwcomeau.com](https://joshwcomeau.com), [@joshwcomeau](https://twitter.com/joshwcomeau)
+
 ### Coyier, Chris
 
 **Койер, Крис** — [css-tricks.com](https://css-tricks.com), [@chriscoyier](https://twitter.com/chriscoyier)
