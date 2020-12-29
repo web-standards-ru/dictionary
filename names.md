@@ -370,6 +370,12 @@
 
 **Сáттон, Марси** — [marcysutton.com](https://marcysutton.com/), [@marcysutton](https://twitter.com/marcysutton)
 
+## U
+
+### Ubl, Malte
+
+**Убл, Ма́лте** — [industrialempathy.com](https://www.industrialempathy.com), [@cramforce](https://twitter.com/cramforce)
+
 ## V
 
 ### Vaughn, Brian
