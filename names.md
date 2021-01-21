@@ -370,6 +370,10 @@
 
 **Сáттон, Марси** — [marcysutton.com](https://marcysutton.com/), [@marcysutton](https://twitter.com/marcysutton)
 
+### Suzanne, Miriam
+
+**Сюзанн, Мириам** — [miriamsuzanne.com](https://www.miriamsuzanne.com/), [@mirisuzanne](https://twitter.com/MiriSuzanne)
+
 ## U
 
 ### Ubl, Malte
