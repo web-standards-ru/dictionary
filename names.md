@@ -330,6 +330,10 @@
 
 ## S
 
+### Shaked, Uri
+
+**Шаке́д, Ури** — [urish.org](https://urish.org/), [@urishaked](https://twitter.com/urishaked)
+
 ### Sharp, Remy
 
 **Шарп, Реми** — [remysharp.com](https://remysharp.com/), [@rem](https://twitter.com/rem)
