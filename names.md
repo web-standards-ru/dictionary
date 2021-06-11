@@ -332,7 +332,7 @@
 
 ### Shaked, Uri
 
-**Шаке́д, Ури** — [urish.org](https://urish.org/), [@urishaked](https://twitter.com/urishaked)
+**Шаке́д, У́ри** — [urish.org](https://urish.org/), [@urishaked](https://twitter.com/urishaked)
 
 ### Sharp, Remy
 
