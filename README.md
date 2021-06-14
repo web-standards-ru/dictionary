@@ -5,6 +5,7 @@
 - [Термины](dictionary.md)
 - [Git и GitHub](git.md)
 - [Зарубежные имена](names.md)
+- [Названия символов на клавиатуре](keyboard-symbol-names.md)
 
 ## Задача
 
