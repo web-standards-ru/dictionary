@@ -5,7 +5,7 @@
 - [Термины](dictionary.md)
 - [Git и GitHub](git.md)
 - [Зарубежные имена](names.md)
-- [Имена насыщенности шрифта](font-weight-names.md)
+- [Имена насыщенности шрифта](font-weights.md)
 
 ## Задача
 
