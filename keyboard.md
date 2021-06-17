@@ -1,36 +1,39 @@
 # Названия символов на клавиатуре
 
-Символ | RU | ENG
------------- | ------------- | -------------
-\^ | Циркумфлекс | Circumflex, Caret
-\& | Амперсанд | Ampersand, And
-\~ | Тильда | Tilde
-\' | Апостроф, Одинакрная кавычка | Apostrophe, Single Quote
-\` | Бэктик, Гравис, обратный машинописный апостроф | Acute, Back quote, Grave, Grave accent
-\" | Двойная кавычка | Quotation Mark
-\! | Восклицательный знак, Не | Exclamation Mark, Exclamation point, Bang
-\( | Левая/открывающая круглая скобка | Left/Open Parenthesis
-\) | Правая/закрывающая круглая скобка | Right/Close Parenthesis
-\{ | Левая/открывающая фигурная скобка | Left/Open Curly Brace
-\} | Правая/закрывающая фигурная скобка | Right/Close Curly Brace
-\[ | Левая/открывающая квадратная скобка | Left/Open Square Bracket
-\] | Правая/закрывающая квадратная скобка | Right/Close Square Bracket
-\< | Меньше или Левая/открывающая угловая скобка | Less Than or Left/Open Angle Bracket
-\> | Больше или Правая/закрывающая угловая скобка | Greater Than or Right/Close Angle Bracket
-\: | Двоеточие | Colon
-\; | Точка с запятой | Semicolon
-&#42; | Звёздочка | Asterisk, Star
-\+ | Плюс | Plus
-\- | Минус, дефис | Hyphen, Minus, Dash
-\/ | Дробь, Косая черта, Деление | Forward Slash
-\\ | Обратная косая черта | Backslash
-\, | Запятая | Comma
-\@ | «Собака», Эт | At
-\# | Решётка, Октоторп, Хеш, Диез, Знак номера, Знак фунта | Octothorpe, Number, Pound, Sharp, Hash
-\$ | Доллар | Dollar Sign
-\_ | Нижнее подчёркивание | Underscore
-\. | Точка | Period, Dot
-&#124; | Вертикальная черта | Vertical Bar, Pipe |
-§ | Параграф | Section
-№ | Номер | Numero Sign
-\% | Процент | Percent
+| Символ | По-русски | По-английски
+| ------ | --------- | -------------
+|    ^   | Циркумфлекс | Circumflex, caret
+|    &   | Амперсанд | Ampersand, and
+|    ~   | Тильда | Tilde
+|    '   | Апостроф, одиночная кавычка | Apostrophe, single quote
+|    `   | Бэктик, гравис, обратный апостроф | Acute, back quote, grave, grave accent
+|    "   | Двойная кавычка | Quotation mark
+|    !   | Восклицательный знак, отрицание | Exclamation mark, exclamation point, bang
+|    (   | Левая круглая скобка | Left parenthesis
+|    )   | Правая круглая скобка | Right parenthesis
+|    {   | Левая фигурная скобка | Left curly brace
+|    }   | Правая фигурная скобка | Right curly brace
+|    [   | Левая квадратная скобка | Left square bracket
+|    ]   | Правая квадратная скобка | Right square bracket
+|    <   | Меньше, левая угловая скобка | Less than, left angle bracket
+|    >   | Больше, правая угловая скобка | Greater than, right angle bracket
+|    :   | Двоеточие | Colon
+|    ;   | Точка с запятой | Semicolon
+|    *   | Астериск, звёздочка | Asterisk, star
+|    +   | Плюс | Plus
+|    -   | Перенос, минус, дефис | Hyphen, minus, dash
+|    /   | Прямой слэш (косая черта), деление | Forward slash, division
+|    \   | Обратный слэш (косая черта) | Back slash
+|    ,   | Запятая | Comma
+|    @   | Собака, эт | At
+|    #   | Решётка, октоторп, хеш, диез, номер, фунт | Octothorpe, number, pound, sharp, hash
+|    $   | Доллар | Dollar
+|    _   | Нижнее подчёркивание | Underscore
+|    .   | Точка | Period, dot
+|   \|   | Вертикальная черта, пайп | Vertical bar, pipe
+|    §   | Параграф | Section
+|    №   | Номер | Numero
+|    %   | Процент | Percent
+
+- Левая скобка ещё называется «открывающей» (open)
+- Правая скобка ещё называется «закрывающей» (close)
