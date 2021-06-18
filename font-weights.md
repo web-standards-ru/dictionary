@@ -3,7 +3,7 @@
 | font-weight  | По-русски              | По-английски
 | ------------ | ---------------------- | ------------
 | 100          | Тонкий                 | Thin
-| 200          | Сверхлёгкий            | Extra Light, Ultra light
+| 200          | Сверхлёгкий            | Extra Light, Ultra Light
 | 300          | Лёгкий                 | Light
 | 400 (normal) | Нормальный, регулярный | Normal, Book, Regular
 | 500          | Средний                | Medium
