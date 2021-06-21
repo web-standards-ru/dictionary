@@ -14,7 +14,7 @@
 
 ### Aderinokun, Ire
 
-**Аде́ринокун, Ирé** — [bitsofco.de](https://bitsofco.de/), [@ireaderinokun](https://twitter.com/ireaderinokun)
+**Аде́ринокун, Ире́** — [bitsofco.de](https://bitsofco.de/), [@ireaderinokun](https://twitter.com/ireaderinokun)
 
 ### Ahlin, Tobias
 
@@ -326,7 +326,7 @@
 
 ### Roselli, Adrian
 
-**Розéлли, Адриан** — [adrianroselli.com](https://adrianroselli.com/), [@aardrian](https://twitter.com/aardrian)
+**Розе́лли, Адриан** — [adrianroselli.com](https://adrianroselli.com/), [@aardrian](https://twitter.com/aardrian)
 
 ## S
 
@@ -372,7 +372,7 @@
 
 ### Sutton, Marcy
 
-**Сáттон, Марси** — [marcysutton.com](https://marcysutton.com/), [@marcysutton](https://twitter.com/marcysutton)
+**Са́ттон, Марси** — [marcysutton.com](https://marcysutton.com/), [@marcysutton](https://twitter.com/marcysutton)
 
 ### Suzanne, Miriam
 
