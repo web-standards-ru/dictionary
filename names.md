@@ -56,6 +56,10 @@
 
 **Кларк, Э́ндрю** — [@acdlite](https://twitter.com/acdlite)
 
+### Comeau, Josh
+
+**Камю, Джош** — [joshwcomeau.com](https://joshwcomeau.com), [@joshwcomeau](https://twitter.com/joshwcomeau)
+
 ### Coyier, Chris
 
 **Койер, Крис** — [css-tricks.com](https://css-tricks.com), [@chriscoyier](https://twitter.com/chriscoyier)
@@ -180,7 +184,7 @@
 
 ### Judis, Stefan
 
-**Ю́дис, Ште́фан** — [stefanjudis.de](https://www.stefanjudis.de/), [@stefanjudis](https://twitter.com/stefanjudis)
+**Джу́дис, Ште́фан** — [stefanjudis.de](https://www.stefanjudis.de/), [@stefanjudis](https://twitter.com/stefanjudis)
 
 ### Jahr, Adam
 
@@ -228,7 +232,7 @@
 
 ### Lesiński, Kornel
 
-**Лесински, Корнель** — [kornel.ski](https://kornel.ski/), [@kornelski](https://twitter.com/kornelski)
+**Лесиньский, Корнель** — [kornel.ski](https://kornel.ski/), [@kornelski](https://twitter.com/kornelski)
 
 ### Lewis, Paul
 
@@ -326,6 +330,10 @@
 
 ## S
 
+### Shaked, Uri
+
+**Шаке́д, У́ри** — [urish.org](https://urish.org/), [@urishaked](https://twitter.com/urishaked)
+
 ### Sharp, Remy
 
 **Шарп, Реми** — [remysharp.com](https://remysharp.com/), [@rem](https://twitter.com/rem)
@@ -365,6 +373,16 @@
 ### Sutton, Marcy
 
 **Сáттон, Марси** — [marcysutton.com](https://marcysutton.com/), [@marcysutton](https://twitter.com/marcysutton)
+
+### Suzanne, Miriam
+
+**Сюзанн, Мириам** — [miriamsuzanne.com](https://www.miriamsuzanne.com/), [@mirisuzanne](https://twitter.com/MiriSuzanne)
+
+## U
+
+### Ubl, Malte
+
+**Убл, Ма́лте** — [industrialempathy.com](https://www.industrialempathy.com), [@cramforce](https://twitter.com/cramforce)
 
 ## V
 
