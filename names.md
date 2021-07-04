@@ -1,4 +1,4 @@
-# Словарь имен фронтендеров-авторов статей
+# Словарь имён фронтендеров-авторов статей
 
 Оглавление: [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) Q [R](#r) [S](#s) T U [V](#v) [W](#w) X [Y](#y) [Z](#z)
 
@@ -14,7 +14,7 @@
 
 ### Aderinokun, Ire
 
-**Аде́ринокун, Ирé** — [bitsofco.de](https://bitsofco.de/), [@ireaderinokun](https://twitter.com/ireaderinokun)
+**Аде́ринокун, Ире́** — [bitsofco.de](https://bitsofco.de/), [@ireaderinokun](https://twitter.com/ireaderinokun)
 
 ### Ahlin, Tobias
 
@@ -55,6 +55,10 @@
 ### Clark, Andrew
 
 **Кларк, Э́ндрю** — [@acdlite](https://twitter.com/acdlite)
+
+### Comeau, Josh
+
+**Камю, Джош** — [joshwcomeau.com](https://joshwcomeau.com), [@joshwcomeau](https://twitter.com/joshwcomeau)
 
 ### Coyier, Chris
 
@@ -120,6 +124,10 @@
 
 **Жироде́ль, Хьюго** — [hugogiraudel.com](https://hugogiraudel.com/), [@HugoGiraudel](https://twitter.com/HugoGiraudel)
 
+### Gomes, Sérgio
+
+**Гомеш, Сержиу** — [sgom.es](https://sgom.es), [@sergiomdgomes](https://twitter.com/sergiomdgomes)
+
 ### Grigorik, Ilya
 
 **Григо́рик, Илья** — [igvita.com](https://www.igvita.com), [@igrigorik](https://twitter.com/igrigorik)
@@ -176,7 +184,7 @@
 
 ### Judis, Stefan
 
-**Ю́дис, Ште́фан** — [stefanjudis.de](https://www.stefanjudis.de/), [@stefanjudis](https://twitter.com/stefanjudis)
+**Джу́дис, Ште́фан** — [stefanjudis.de](https://www.stefanjudis.de/), [@stefanjudis](https://twitter.com/stefanjudis)
 
 ### Jahr, Adam
 
@@ -224,7 +232,7 @@
 
 ### Lesiński, Kornel
 
-**Лесински, Корнель** — [kornel.ski](https://kornel.ski/), [@kornelski](https://twitter.com/kornelski)
+**Лесиньский, Корнель** — [kornel.ski](https://kornel.ski/), [@kornelski](https://twitter.com/kornelski)
 
 ### Lewis, Paul
 
@@ -318,9 +326,13 @@
 
 ### Roselli, Adrian
 
-**Розéлли, Адриан** — [adrianroselli.com](https://adrianroselli.com/), [@aardrian](https://twitter.com/aardrian)
+**Розе́лли, Адриан** — [adrianroselli.com](https://adrianroselli.com/), [@aardrian](https://twitter.com/aardrian)
 
 ## S
+
+### Shaked, Uri
+
+**Шаке́д, У́ри** — [urish.org](https://urish.org/), [@urishaked](https://twitter.com/urishaked)
 
 ### Sharp, Remy
 
@@ -360,7 +372,17 @@
 
 ### Sutton, Marcy
 
-**Сáттон, Марси** — [marcysutton.com](https://marcysutton.com/), [@marcysutton](https://twitter.com/marcysutton)
+**Са́ттон, Марси** — [marcysutton.com](https://marcysutton.com/), [@marcysutton](https://twitter.com/marcysutton)
+
+### Suzanne, Miriam
+
+**Сюзанн, Мириам** — [miriamsuzanne.com](https://www.miriamsuzanne.com/), [@mirisuzanne](https://twitter.com/MiriSuzanne)
+
+## U
+
+### Ubl, Malte
+
+**Убл, Ма́лте** — [industrialempathy.com](https://www.industrialempathy.com), [@cramforce](https://twitter.com/cramforce)
 
 ## V
 
