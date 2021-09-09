@@ -120,9 +120,9 @@
 
 **Гилленуотер, Зоуи** — [zomigi.com](https://zomigi.com/), [@zomigi](https://twitter.com/zomigi)
 
-### Giraudel, Hugo
+### Giraudel, Kitty
 
-**Жироде́ль, Хьюго** — [hugogiraudel.com](https://hugogiraudel.com/), [@HugoGiraudel](https://twitter.com/HugoGiraudel)
+**Жироде́ль, Китти** — [kittygiraudel.com](https://kittygiraudel.com/), [@KittyGiraudel](https://twitter.com/KittyGiraudel)
 
 ### Gomes, Sérgio
 
