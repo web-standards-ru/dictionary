@@ -184,7 +184,7 @@
 
 ### Judis, Stefan
 
-**Джу́дис, Ште́фан** — [stefanjudis.de](https://www.stefanjudis.de/), [@stefanjudis](https://twitter.com/stefanjudis)
+**Ю́дис, Ште́фан** — [stefanjudis.de](https://www.stefanjudis.de/), [@stefanjudis](https://twitter.com/stefanjudis)
 
 ### Jahr, Adam
 
