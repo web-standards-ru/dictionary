@@ -1036,6 +1036,10 @@
 
 **перекомпоновка**
 
+### relative colors
+
+**производные цвета**, изменение цвета, встроенное в CSS. [Появляется](https://www.w3.org/TR/css-color-5/#:~:text=The%20new%20relative%20color%20syntax,possibly%20modified%20with%20math%20functions) в спецификации [CSS Color Module Level 5](https://www.w3.org/TR/css-color-5/).
+
 ### rem
 
 **рем,** единица измерения в CSS, которая зависит от размера шрифта корневого элемента `<html>`, напр. _font-size: 3rem — размер шрифта 3 рема._
