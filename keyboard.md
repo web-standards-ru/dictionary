@@ -28,7 +28,7 @@
 |    @   | Собака, эт | At
 |    #   | Решётка, октоторп, хеш, диез, номер, фунт | Octothorpe, number, pound, sharp, hash
 |    $   | Доллар | Dollar
-|    _   | Нижнее подчёркивание | Underscore
+|    _   | Подчёркивание | Underscore
 |    .   | Точка | Period, dot
 |   \|   | Вертикальная черта, пайп | Vertical bar, pipe
 |    §   | Параграф | Section
