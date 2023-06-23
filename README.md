@@ -1,6 +1,6 @@
 # Словари по фронтенду
 
-Сборник словарей по фронтенду и клиентским технологиям с определениями и примерами, принятый к использованию в редакции «[Веб-стандартов](https://web-standards.ru)» и рекомендованный для всей русскоязычной литературы о веб-технологиях.
+Сборник словарей по фронтенду и клиентским технологиям с определениями и примерами, принятый к использованию в редакциях «[Веб-стандартов](https://web-standards.ru)», [Доки](https://doka.guide/) и рекомендованный для всей русскоязычной литературы о веб-технологиях.
 
 - [Термины](dictionary.md)
 - [Git и GitHub](git.md)
@@ -25,4 +25,4 @@
 При переводе имён пользуйтесь [правилами практической транскрипции](https://ru.wikipedia.org/wiki/Категория:Практическая_транскрипция_с_русским_языком).
 
 ---
-[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редакторы [Вадим Макеев](https://pepelsbey.net) и [Ольга Алексашенко](https://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).
+[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), команда [Доки](https://github.com/doka-guide/content), редакторы [Вадим Макеев](https://pepelsbey.net) и [Ольга Алексашенко](https://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).

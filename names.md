@@ -445,4 +445,4 @@
 **Зельдман, Джеффри** — [zeldman.com](https://www.zeldman.com/), [@zeldman](https://twitter.com/zeldman)
 
 ---
-[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редакторы [Вадим Макеев](https://pepelsbey.net) и [Ольга Алексашенко](https://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).
+[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), команда [Доки](https://github.com/doka-guide/content) и редакторы [Вадим Макеев](https://pepelsbey.net) и [Ольга Алексашенко](https://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).
