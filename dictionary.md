@@ -1453,4 +1453,4 @@
 **обходное решение (приём),** способ решения задачи в ограниченных условиях, напр. _to figure out workaround — придумать обходной приём._
 
 ---
-[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редакторы [Вадим Макеев](http://pepelsbey.net) и [Ольга Алексашенко](http://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).
+Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).

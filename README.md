@@ -1,12 +1,28 @@
 # Словари по фронтенду
 
-Сборник словарей по фронтенду и клиентским технологиям с определениями и примерами, принятый к использованию в редакции «[Веб-стандартов](https://web-standards.ru)» и рекомендованный для всей русскоязычной литературы о веб-технологиях.
+Сборник словарей по фронтенду и клиентским технологиям с определениями и примерами, принятый к использованию в редакциях «[Веб-стандартов](https://web-standards.ru)» и [Доки](https://doka.guide/), а также рекомендованный для всей русскоязычной литературы о веб-технологиях.
 
 - [Термины](dictionary.md)
 - [Git и GitHub](git.md)
 - [Зарубежные имена](names.md)
 - [Имена насыщенности шрифта](font-weights.md)
 - [Названия символов на клавиатуре](keyboard.md)
+
+## Редакция
+
+- [Алёна Батицкая](https://github.com/solarrust)
+- [Александр Бондарев](https://github.com/skip405)
+- [Полина Гуртовая](https://github.com/HellSquirrel)
+- [Игорь Коровченко](https://github.com/igsekor)
+- [Алексей Пыльцын](https://github.com/lex111)
+- [Татьяна Фокина](https://github.com/TatianaFokina)
+
+Авторы идеи и первоначального списка терминов:
+
+- [Ольга Алексашенко](https://engelside.net/portfolio/)
+- [Вадим Макеев](https://pepelsbey.dev/)
+
+[Список контрибьюторов](https://github.com/web-standards-ru/dictionary/graphs/contributors)
 
 ## Задача
 
@@ -25,4 +41,4 @@
 При переводе имён пользуйтесь [правилами практической транскрипции](https://ru.wikipedia.org/wiki/Категория:Практическая_транскрипция_с_русским_языком).
 
 ---
-[Авторы](https://github.com/web-standards-ru/dictionary/graphs/contributors), редакторы [Вадим Макеев](https://pepelsbey.net) и [Ольга Алексашенко](https://engelside.net/portfolio/). Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).
+Распространяется по лицензии [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru).
