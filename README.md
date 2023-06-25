@@ -11,7 +11,7 @@
 ## Редакция
 
 - [Алёна Батицкая](https://github.com/solarrust)
-- [Алексей Бондарёв](https://github.com/skip405)
+- [Александр Бондарев](https://github.com/skip405)
 - [Полина Гуртовая](https://github.com/HellSquirrel)
 - [Игорь Коровченко](https://github.com/igsekor)
 - [Алексей Пыльцын](https://github.com/lex111)
