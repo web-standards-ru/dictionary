@@ -1042,7 +1042,7 @@
 
 ### relative colors
 
-**производные цвета**, изменение цвета, встроенное в CSS, напр. _added OKLCH relative color syntax example — добавлен пример синтаксиса производного цвета в OKLCH._ [Появляются](https://www.w3.org/TR/css-color-5/#:~:text=The%20new%20relative%20color%20syntax,possibly%20modified%20with%20math%20functions) в спецификации CSS Color Module Level 5.
+**производные цвета**, изменение цвета, встроенное в CSS, напр. _added OKLCH relative color syntax example — добавлен пример синтаксиса производного цвета в OKLCH._ Появляются в спецификации [CSS Color Module Level 5](https://www.w3.org/TR/css-color-5/#:~:text=The%20new%20relative%20color%20syntax,possibly%20modified%20with%20math%20functions).
 
 ### rem
 
