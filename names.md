@@ -270,6 +270,10 @@
 
 **Нил, Джонатан** — [jonathantneal.com](http://www.jonathantneal.com), [@jon_neal](https://twitter.com/jon_neal)
 
+### Nielsen, Jakob
+
+**Нильсен, Якоб** — [jakobnielsenphd.substack.com](https://jakobnielsenphd.substack.com)
+
 ## O
 
 ### Oliveira, Vincent de
