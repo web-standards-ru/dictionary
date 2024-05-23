@@ -58,7 +58,7 @@
 
 ### Comeau, Josh
 
-**Камю, Джош** — [joshwcomeau.com](https://joshwcomeau.com), [@joshwcomeau](https://twitter.com/joshwcomeau)
+**Комо́, Джош** — [joshwcomeau.com](https://joshwcomeau.com), [@joshwcomeau](https://twitter.com/joshwcomeau)
 
 ### Coyier, Chris
 
@@ -254,7 +254,7 @@
 
 ### Meyer, Eric
 
-**Мейер, Эрик** — [meyerweb.com](https://meyerweb.com), [@meyerweb](https://twitter.com/meyerweb)
+**Ма́йер, Эрик** — [meyerweb.com](https://meyerweb.com), [@meyerweb](https://twitter.com/meyerweb)
 
 ### Meurer, Benedikt
 
