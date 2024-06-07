@@ -334,6 +334,10 @@
 
 ## S
 
+### Shadeed, Ahmad
+
+**Шадид, Ахмад** — [ishadeed.com](https://ishadeed.com/), [@shadeed9](https://twitter.com/shadeed9)
+
 ### Shaked, Uri
 
 **Шаке́д, У́ри** — [urish.org](https://urish.org/), [@urishaked](https://twitter.com/urishaked)
